@@ -6,7 +6,7 @@ import { notFound } from 'next/navigation';
 interface LyricLine {
   chinese: string;
   pinyin: string;
-  type: 'lyric' | 'chinese-only' | 'blank';
+  type: 'lyric' | 'pinyin-only' | 'chinese-only' | 'blank';
 }
 
 interface SongData {
@@ -65,11 +65,11 @@ export default async function SongPage({ params }: { params: Promise<{ songId: s
 
             const chinese = line.chinese.replace(/\/+$/, '').trim();
 
-            if (line.type === 'lyric' && line.pinyin) {
+            if ((line.type === 'lyric' || line.type === 'pinyin-only') && line.pinyin) {
               return (
                 <div key={i} className="lyric-line">
                   <span className="lyric-pinyin">{line.pinyin}</span>
-                  <span className="lyric-chinese">{chinese}</span>
+                  {chinese ? <span className="lyric-chinese">{chinese}</span> : null}
                 </div>
               );
             }
