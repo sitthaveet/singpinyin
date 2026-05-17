@@ -64,19 +64,18 @@ export default async function SongPage({ params }: { params: Promise<{ songId: s
             }
 
             const chinese = line.chinese.replace(/\/+$/, '').trim();
+            const pinyin = line.pinyin.trim();
+            const hasChinese = Boolean(chinese);
+            const hasPinyin = Boolean(pinyin);
 
-            if ((line.type === 'lyric' || line.type === 'pinyin-only') && line.pinyin) {
-              return (
-                <div key={i} className="lyric-line">
-                  <span className="lyric-pinyin">{line.pinyin}</span>
-                  {chinese ? <span className="lyric-chinese">{chinese}</span> : null}
-                </div>
-              );
+            if (!hasChinese && !hasPinyin) {
+              return null;
             }
 
             return (
-              <div key={i} className="lyric-line lyric-chinese-only">
-                <span className="lyric-chinese">{chinese}</span>
+              <div key={i} className={`lyric-line${hasChinese && hasPinyin ? '' : ' lyric-chinese-only'}`}>
+                {hasPinyin ? <span className="lyric-pinyin">{pinyin}</span> : null}
+                {hasChinese ? <span className="lyric-chinese">{chinese}</span> : null}
               </div>
             );
           })}
