@@ -1,0 +1,661 @@
+{
+  "key": "15740691_15740691",
+  "title": "你不属于我 / 你不屬於我 Ni Bu Shu Yu Wo",
+  "artist": "周兴哲 / 周興哲 Eric Chou (You Don't Belong To Me)",
+  "arranger": "yenyen_s",
+  "web_url": "https://www.smule.com/song/arr/15740691_15740691",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s-sf-1/arr/10/44/c28d46af-3385-4eec-a183-37c1a9260127.jpg",
+  "has_lyrics": true,
+  "line_count": 108,
+  "lyric_line_count": 84,
+  "lines": [
+    {
+      "raw": "周兴哲 Eric Chou",
+      "chinese": "周兴哲",
+      "pinyin": "Eric Chou",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 You Don't Belong To Me",
+      "chinese": "你不属于我",
+      "pinyin": "You Don't Belong To Me",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "比悲伤更悲伤的故事 影集版片尾曲",
+      "chinese": "比悲伤更悲伤的故事 影集版片尾曲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "作词：林孝谦",
+      "chinese": "作词：林孝谦",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "作曲：Eric周兴哲",
+      "chinese": "作曲：Eric周兴哲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "编曲：于京延",
+      "chinese": "编曲：于京延",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "别说永远 Bie shuo yong yuan",
+      "chinese": "别说永远",
+      "pinyin": "Bie shuo yong yuan",
+      "type": "lyric"
+    },
+    {
+      "raw": "永远会让人 yong yuan hui rang ren",
+      "chinese": "永远会让人",
+      "pinyin": "yong yuan hui rang ren",
+      "type": "lyric"
+    },
+    {
+      "raw": "更想念 geng xiang nian",
+      "chinese": "更想念",
+      "pinyin": "geng xiang nian",
+      "type": "lyric"
+    },
+    {
+      "raw": "就像再见 jiu xiang zai jian",
+      "chinese": "就像再见",
+      "pinyin": "jiu xiang zai jian",
+      "type": "lyric"
+    },
+    {
+      "raw": "从不会再见 cong bu hui zai jian",
+      "chinese": "从不会再见",
+      "pinyin": "cong bu hui zai jian",
+      "type": "lyric"
+    },
+    {
+      "raw": "越悲伤 就越深刻 yue bei shang jiu yue shen ke",
+      "chinese": "越悲伤 就越深刻",
+      "pinyin": "yue bei shang jiu yue shen ke",
+      "type": "lyric"
+    },
+    {
+      "raw": "难道这就是 nan dao zhe jiu shi",
+      "chinese": "难道这就是",
+      "pinyin": "nan dao zhe jiu shi",
+      "type": "lyric"
+    },
+    {
+      "raw": "爱情的规则 ai qing de gui ze",
+      "chinese": "爱情的规则",
+      "pinyin": "ai qing de gui ze",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "学会成熟 xue hui cheng shou",
+      "chinese": "学会成熟",
+      "pinyin": "xue hui cheng shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "不代表学会放手 bu dai biao xue hui fang shou",
+      "chinese": "不代表学会放手",
+      "pinyin": "bu dai biao xue hui fang shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "就像舍得 jiu xiang she de",
+      "chinese": "就像舍得",
+      "pinyin": "jiu xiang she de",
+      "type": "lyric"
+    },
+    {
+      "raw": "从来不舍得 cong lai bu she de",
+      "chinese": "从来不舍得",
+      "pinyin": "cong lai bu she de",
+      "type": "lyric"
+    },
+    {
+      "raw": "爱不用选择 ai bu yong xuan ze",
+      "chinese": "爱不用选择",
+      "pinyin": "ai bu yong xuan ze",
+      "type": "lyric"
+    },
+    {
+      "raw": "更无需假设 geng wu xu jia she",
+      "chinese": "更无需假设",
+      "pinyin": "geng wu xu jia she",
+      "type": "lyric"
+    },
+    {
+      "raw": "我说深深爱过 wo shuo shen shen ai guo",
+      "chinese": "我说深深爱过",
+      "pinyin": "wo shuo shen shen ai guo",
+      "type": "lyric"
+    },
+    {
+      "raw": "才会懂得 cai hui dong de",
+      "chinese": "才会懂得",
+      "pinyin": "cai hui dong de",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shu yu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shu yu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的脆弱 shu yu wo de cui ruo",
+      "chinese": "属于我的脆弱",
+      "pinyin": "shu yu wo de cui ruo",
+      "type": "lyric"
+    },
+    {
+      "raw": "我们只剩今天 wo men zhi sheng jin tian",
+      "chinese": "我们只剩今天",
+      "pinyin": "wo men zhi sheng jin tian",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么奢求以后 zen me she qiu yi hou",
+      "chinese": "怎么奢求以后",
+      "pinyin": "zen me she qiu yi hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "没藏好的那些 mei cang hao di na xie",
+      "chinese": "没藏好的那些",
+      "pinyin": "mei cang hao di na xie",
+      "type": "lyric"
+    },
+    {
+      "raw": "牵强理由 qian qiang li you",
+      "chinese": "牵强理由",
+      "pinyin": "qian qiang li you",
+      "type": "lyric"
+    },
+    {
+      "raw": "我会练习有话直说 wo hui lian xi you hua zhi shuo",
+      "chinese": "我会练习有话直说",
+      "pinyin": "wo hui lian xi you hua zhi shuo",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shu yu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shu yu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的愧疚 shu yu wo de kui jiu",
+      "chinese": "属于我的愧疚",
+      "pinyin": "shu yu wo de kui jiu",
+      "type": "lyric"
+    },
+    {
+      "raw": "我是真的愿意 wo shi zhen de yuan yi",
+      "chinese": "我是真的愿意",
+      "pinyin": "wo shi zhen de yuan yi",
+      "type": "lyric"
+    },
+    {
+      "raw": "消失在你身后 xiao shi zai ni shen hou",
+      "chinese": "消失在你身后",
+      "pinyin": "xiao shi zai ni shen hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "眼泪不停流 yan lei bu ting liu",
+      "chinese": "眼泪不停流",
+      "pinyin": "yan lei bu ting liu",
+      "type": "lyric"
+    },
+    {
+      "raw": "却紧紧守候 que jin jin shouhou",
+      "chinese": "却紧紧守候",
+      "pinyin": "que jin jin shouhou",
+      "type": "lyric"
+    },
+    {
+      "raw": "我想我会坦白 wo xiang wo hui tan bai",
+      "chinese": "我想我会坦白",
+      "pinyin": "wo xiang wo hui tan bai",
+      "type": "lyric"
+    },
+    {
+      "raw": "我离开的理由 wo li kai de li you",
+      "chinese": "我离开的理由",
+      "pinyin": "wo li kai de li you",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "学会成熟 xue hui cheng shou",
+      "chinese": "学会成熟",
+      "pinyin": "xue hui cheng shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "不代表学会放开手 bu daibiao xue hui fangkai shou",
+      "chinese": "不代表学会放开手",
+      "pinyin": "bu daibiao xue hui fangkai shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "就像舍得 jiu xiang she de",
+      "chinese": "就像舍得",
+      "pinyin": "jiu xiang she de",
+      "type": "lyric"
+    },
+    {
+      "raw": "从来不舍得 cong lai bu she de",
+      "chinese": "从来不舍得",
+      "pinyin": "cong lai bu she de",
+      "type": "lyric"
+    },
+    {
+      "raw": "爱不用选择 ai bu yong xua nze",
+      "chinese": "爱不用选择",
+      "pinyin": "ai bu yong xua nze",
+      "type": "lyric"
+    },
+    {
+      "raw": "更无需假设 geng wu xu jia she",
+      "chinese": "更无需假设",
+      "pinyin": "geng wu xu jia she",
+      "type": "lyric"
+    },
+    {
+      "raw": "我说深深爱过 wo shuo shen shen ai guo",
+      "chinese": "我说深深爱过",
+      "pinyin": "wo shuo shen shen ai guo",
+      "type": "lyric"
+    },
+    {
+      "raw": "才会懂得 cai hui dong de",
+      "chinese": "才会懂得",
+      "pinyin": "cai hui dong de",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shu yu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shu yu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的脆弱 shu yu wo de cui ruo",
+      "chinese": "属于我的脆弱",
+      "pinyin": "shu yu wo de cui ruo",
+      "type": "lyric"
+    },
+    {
+      "raw": "我们只剩今天 wo men zhi sheng jin tian",
+      "chinese": "我们只剩今天",
+      "pinyin": "wo men zhi sheng jin tian",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么奢求以后 zen me she qiu yi hou",
+      "chinese": "怎么奢求以后",
+      "pinyin": "zen me she qiu yi hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "没藏好的那些 mei cang hao di na xie",
+      "chinese": "没藏好的那些",
+      "pinyin": "mei cang hao di na xie",
+      "type": "lyric"
+    },
+    {
+      "raw": "牵强理由 qian qiang li you",
+      "chinese": "牵强理由",
+      "pinyin": "qian qiang li you",
+      "type": "lyric"
+    },
+    {
+      "raw": "我会练习有话直说 wo hui lian xi you hua zhi shuo",
+      "chinese": "我会练习有话直说",
+      "pinyin": "wo hui lian xi you hua zhi shuo",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shuyu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shuyu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的愧疚 shu yu wo de kui jiu",
+      "chinese": "属于我的愧疚",
+      "pinyin": "shu yu wo de kui jiu",
+      "type": "lyric"
+    },
+    {
+      "raw": "我是真的愿意 wo shi zhen de yuan yi",
+      "chinese": "我是真的愿意",
+      "pinyin": "wo shi zhen de yuan yi",
+      "type": "lyric"
+    },
+    {
+      "raw": "消失在你身后 xiao shi zai ni shen hou",
+      "chinese": "消失在你身后",
+      "pinyin": "xiao shi zai ni shen hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "眼泪不停流 yan lei bu ting liu",
+      "chinese": "眼泪不停流",
+      "pinyin": "yan lei bu ting liu",
+      "type": "lyric"
+    },
+    {
+      "raw": "却紧紧守候 que jin jin shou hou",
+      "chinese": "却紧紧守候",
+      "pinyin": "que jin jin shou hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "相信我有我的理由 xiang xin wo you wo de li you",
+      "chinese": "相信我有我的理由",
+      "pinyin": "xiang xin wo you wo de li you",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "不该让你 bu gai rang ni",
+      "chinese": "不该让你",
+      "pinyin": "bu gai rang ni",
+      "type": "lyric"
+    },
+    {
+      "raw": "一个人承受 yi ge ren cheng shou",
+      "chinese": "一个人承受",
+      "pinyin": "yi ge ren cheng shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果没有我 ru guo mei you wo",
+      "chinese": "如果没有我",
+      "pinyin": "ru guo mei you wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "你是否还能 ni shi fou hai neng",
+      "chinese": "你是否还能",
+      "pinyin": "ni shi fou hai neng",
+      "type": "lyric"
+    },
+    {
+      "raw": "坚强度过 jian qiang du guo",
+      "chinese": "坚强度过",
+      "pinyin": "jian qiang du guo",
+      "type": "lyric"
+    },
+    {
+      "raw": "我发誓对你永不离不弃 wo fashi duini yong buli buqi",
+      "chinese": "我发誓对你永不离不弃",
+      "pinyin": "wo fashi duini yong buli buqi",
+      "type": "lyric"
+    },
+    {
+      "raw": "不即不离 陪你 bu ji bu li pei ni",
+      "chinese": "不即不离 陪你",
+      "pinyin": "bu ji bu li pei ni",
+      "type": "lyric"
+    },
+    {
+      "raw": "到爱情尽头 dao ai qing jin tou",
+      "chinese": "到爱情尽头",
+      "pinyin": "dao ai qing jin tou",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shu yu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shu yu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的懦弱 shu yu wo de nuo ruo",
+      "chinese": "属于我的懦弱",
+      "pinyin": "shu yu wo de nuo ruo",
+      "type": "lyric"
+    },
+    {
+      "raw": "我是真的爱过 wo shi zhen de ai guo",
+      "chinese": "我是真的爱过",
+      "pinyin": "wo shi zhen de ai guo",
+      "type": "lyric"
+    },
+    {
+      "raw": "就该舍得放手 jiu gai she de fang shou",
+      "chinese": "就该舍得放手",
+      "pinyin": "jiu gai she de fang shou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "没把握狠下心 mei ba wo hen xia xin",
+      "chinese": "没把握狠下心",
+      "pinyin": "mei ba wo hen xia xin",
+      "type": "lyric"
+    },
+    {
+      "raw": "掉头就走 diao tou jiu zou",
+      "chinese": "掉头就走",
+      "pinyin": "diao tou jiu zou",
+      "type": "lyric"
+    },
+    {
+      "raw": "我会试着自己难过 wo hui shi zhe zi ji nan guo",
+      "chinese": "我会试着自己难过",
+      "pinyin": "wo hui shi zhe zi ji nan guo",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你不属于我 ni bu shu yu wo",
+      "chinese": "你不属于我",
+      "pinyin": "ni bu shu yu wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "属于我的愧疚 shu yu wo de kui jiu",
+      "chinese": "属于我的愧疚",
+      "pinyin": "shu yu wo de kui jiu",
+      "type": "lyric"
+    },
+    {
+      "raw": "我是真的愿意 wo shi zhen de yuan yi",
+      "chinese": "我是真的愿意",
+      "pinyin": "wo shi zhen de yuan yi",
+      "type": "lyric"
+    },
+    {
+      "raw": "消失在你身后 xiao shi zai ni shen hou",
+      "chinese": "消失在你身后",
+      "pinyin": "xiao shi zai ni shen hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你发现我 ru guo ni fa xian wo",
+      "chinese": "如果你发现我",
+      "pinyin": "ru guo ni fa xian wo",
+      "type": "lyric"
+    },
+    {
+      "raw": "眼泪不停流 yan lei bu ting liu",
+      "chinese": "眼泪不停流",
+      "pinyin": "yan lei bu ting liu",
+      "type": "lyric"
+    },
+    {
+      "raw": "却紧紧守候 que jin jin shou hou",
+      "chinese": "却紧紧守候",
+      "pinyin": "que jin jin shou hou",
+      "type": "lyric"
+    },
+    {
+      "raw": "我一定会对你坦白 wo yi ding hui dui ni tan bai",
+      "chinese": "我一定会对你坦白",
+      "pinyin": "wo yi ding hui dui ni tan bai",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "我爱你的理由 wo ai ni de li you",
+      "chinese": "我爱你的理由",
+      "pinyin": "wo ai ni de li you",
+      "type": "lyric"
+    }
+  ]
+}

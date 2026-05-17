@@ -1,0 +1,607 @@
+{
+  "key": "12210941_12210941",
+  "title": "怎么了 (Zen Me Le)",
+  "artist": "[中字 + Pinyin] Eric Chou (周兴哲) / What's Wrong 興麼你好不芒种有点甜别勉强他懂小幸运追光者",
+  "arranger": "Kaori_Ikeda",
+  "web_url": "https://www.smule.com/song/arr/12210941_12210941",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s-sf-3/arr/7b/43/43ee0f38-d632-458a-a353-370223bb7401.jpg",
+  "has_lyrics": true,
+  "line_count": 99,
+  "lyric_line_count": 73,
+  "lines": [
+    {
+      "raw": "Eric Chou 周兴哲- 怎么了 (Zen Me Le)",
+      "chinese": "Eric Chou 周兴哲- 怎么了 (Zen Me Le)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Uploaded by Kaori_Ikeda",
+      "chinese": "",
+      "pinyin": "Uploaded by Kaori_Ikeda",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你说蓝色/ nǐ shuō lánsè",
+      "chinese": "你说蓝色/",
+      "pinyin": "nǐ shuō lánsè",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "是你最爱的颜色/ shì nǐ zuì'ài de yánsè",
+      "chinese": "是你最爱的颜色/",
+      "pinyin": "shì nǐ zuì'ài de yánsè",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你说如果/ nǐ shuō rúguǒ",
+      "chinese": "你说如果/",
+      "pinyin": "nǐ shuō rúguǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "没有爱那又如何/ méiyǒu àinà yòu rúhé",
+      "chinese": "没有爱那又如何/",
+      "pinyin": "méiyǒu àinà yòu rúhé",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么了 你怎么了/ zěnme le nǐ zěnme le",
+      "chinese": "怎么了 你怎么了/",
+      "pinyin": "zěnme le nǐ zěnme le",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "看过你曾经/ kànguò nǐ céngjīng",
+      "chinese": "看过你曾经/",
+      "pinyin": "kànguò nǐ céngjīng",
+      "type": "lyric"
+    },
+    {
+      "raw": "最灿烂的笑容/ zuì cànlàn de xiàoróng",
+      "chinese": "最灿烂的笑容/",
+      "pinyin": "zuì cànlàn de xiàoróng",
+      "type": "lyric"
+    },
+    {
+      "raw": "看过你紧紧/ kànguò nǐ jǐnjǐn",
+      "chinese": "看过你紧紧/",
+      "pinyin": "kànguò nǐ jǐnjǐn",
+      "type": "lyric"
+    },
+    {
+      "raw": "拥抱爱的面孔/ yǒngbào ài de miànkǒng",
+      "chinese": "拥抱爱的面孔/",
+      "pinyin": "yǒngbào ài de miànkǒng",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么了/ zěnme le",
+      "chinese": "怎么了/",
+      "pinyin": "zěnme le",
+      "type": "lyric"
+    },
+    {
+      "raw": "你消失了/ nǐ xiāoshī le",
+      "chinese": "你消失了/",
+      "pinyin": "nǐ xiāoshī le",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "是不是我错了/ shì bùshì wǒ cuòle",
+      "chinese": "是不是我错了/",
+      "pinyin": "shì bùshì wǒ cuòle",
+      "type": "lyric"
+    },
+    {
+      "raw": "搞错了 天灰了/ gǎo cuòle tiān huīle",
+      "chinese": "搞错了 天灰了/",
+      "pinyin": "gǎo cuòle tiān huīle",
+      "type": "lyric"
+    },
+    {
+      "raw": "雨下着 凝望着/ yǔxià zhe níngwàng zhe",
+      "chinese": "雨下着 凝望着/",
+      "pinyin": "yǔxià zhe níngwàng zhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "你走了 都回不去了/ nǐ zǒule dōuhuí bù qùle",
+      "chinese": "你走了 都回不去了/",
+      "pinyin": "nǐ zǒule dōuhuí bù qùle",
+      "type": "lyric"
+    },
+    {
+      "raw": "像从前快乐/ xiàng cóngqián kuàilè",
+      "chinese": "像从前快乐/",
+      "pinyin": "xiàng cóngqián kuàilè",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "怎么能轻易/ zěnme néng qīngyì",
+      "chinese": "怎么能轻易/",
+      "pinyin": "zěnme néng qīngyì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "说要结束/ shuōyào jiéshù",
+      "chinese": "说要结束/",
+      "pinyin": "shuōyào jiéshù",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么会让你/ zěnme huìràng nǐ",
+      "chinese": "怎么会让你/",
+      "pinyin": "zěnme huìràng nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "抱着我哭/ bàozhe wǒkū",
+      "chinese": "抱着我哭/",
+      "pinyin": "bàozhe wǒkū",
+      "type": "lyric"
+    },
+    {
+      "raw": "太努力的我们/ tài nǔlì de wǒmen",
+      "chinese": "太努力的我们/",
+      "pinyin": "tài nǔlì de wǒmen",
+      "type": "lyric"
+    },
+    {
+      "raw": "最后用力给祝福/ zuìhòu yònglì gěi zhùfú",
+      "chinese": "最后用力给祝福/",
+      "pinyin": "zuìhòu yònglì gěi zhùfú",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么看你笑着/ zěnme kàn nǐ xiàozhe",
+      "chinese": "怎么看你笑着/",
+      "pinyin": "zěnme kàn nǐ xiàozhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "我却心如刀割/ wǒquè xīnrú dāogē",
+      "chinese": "我却心如刀割/",
+      "pinyin": "wǒquè xīnrú dāogē",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "原来我们/ yuánlái wǒmen",
+      "chinese": "原来我们/",
+      "pinyin": "yuánlái wǒmen",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "都一样顽固/ dōu yīyàng wángù",
+      "chinese": "都一样顽固/",
+      "pinyin": "dōu yīyàng wángù",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么会谁都绝口/ zěnme huì shuídōu juékǒu",
+      "chinese": "怎么会谁都绝口/",
+      "pinyin": "zěnme huì shuídōu juékǒu",
+      "type": "lyric"
+    },
+    {
+      "raw": "不提要幸福/ bùtí yào xìngfú",
+      "chinese": "不提要幸福/",
+      "pinyin": "bùtí yào xìngfú",
+      "type": "lyric"
+    },
+    {
+      "raw": "再也不能牵着/ zàiyě bùnéng qiānzhe",
+      "chinese": "再也不能牵着/",
+      "pinyin": "zàiyě bùnéng qiānzhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "你走未来每一步/ nǐ zǒu wèilái měi yībù",
+      "chinese": "你走未来每一步/",
+      "pinyin": "nǐ zǒu wèilái měi yībù",
+      "type": "lyric"
+    },
+    {
+      "raw": "我们怀念什么/ wǒmen huái niàn shénme",
+      "chinese": "我们怀念什么/",
+      "pinyin": "wǒmen huái niàn shénme",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "失去爱那一刻 才晓得/ shīqù àinà yīkè cáixiǎo dé",
+      "chinese": "失去爱那一刻 才晓得/",
+      "pinyin": "shīqù àinà yīkè cáixiǎo dé",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你说蓝色/ nǐ shuō lánsè",
+      "chinese": "你说蓝色/",
+      "pinyin": "nǐ shuō lánsè",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "是你最爱的颜色/ shì nǐ zuì'ài de yánsè",
+      "chinese": "是你最爱的颜色/",
+      "pinyin": "shì nǐ zuì'ài de yánsè",
+      "type": "lyric"
+    },
+    {
+      "raw": "你说如果/ nǐ shuō rúguǒ",
+      "chinese": "你说如果/",
+      "pinyin": "nǐ shuō rúguǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "没有爱那又如何/ méiyǒu àinà yòu rúhé",
+      "chinese": "没有爱那又如何/",
+      "pinyin": "méiyǒu àinà yòu rúhé",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么了 你怎么了/ zěnme le nǐ zěnme le",
+      "chinese": "怎么了 你怎么了/",
+      "pinyin": "zěnme le nǐ zěnme le",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "看过你曾经/ kànguò nǐ céngjīng",
+      "chinese": "看过你曾经/",
+      "pinyin": "kànguò nǐ céngjīng",
+      "type": "lyric"
+    },
+    {
+      "raw": "最灿烂的笑容/ zuì cànlàn de xiàoróng",
+      "chinese": "最灿烂的笑容/",
+      "pinyin": "zuì cànlàn de xiàoróng",
+      "type": "lyric"
+    },
+    {
+      "raw": "看过你紧紧/ kànguò nǐ jǐnjǐn",
+      "chinese": "看过你紧紧/",
+      "pinyin": "kànguò nǐ jǐnjǐn",
+      "type": "lyric"
+    },
+    {
+      "raw": "拥抱爱的面孔/ yǒngbào ài de miànkǒng",
+      "chinese": "拥抱爱的面孔/",
+      "pinyin": "yǒngbào ài de miànkǒng",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么了/ zěnme le",
+      "chinese": "怎么了/",
+      "pinyin": "zěnme le",
+      "type": "lyric"
+    },
+    {
+      "raw": "你消失了/ nǐ xiāoshī le",
+      "chinese": "你消失了/",
+      "pinyin": "nǐ xiāoshī le",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "是不是我错了/ shì bùshì wǒ cuòle",
+      "chinese": "是不是我错了/",
+      "pinyin": "shì bùshì wǒ cuòle",
+      "type": "lyric"
+    },
+    {
+      "raw": "搞错了 越爱着/ gǎo cuòle yuè àizhe",
+      "chinese": "搞错了 越爱着/",
+      "pinyin": "gǎo cuòle yuè àizhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "越痛着 苦笑着/ yuètòng zhe kǔxiào zhe",
+      "chinese": "越痛着 苦笑着/",
+      "pinyin": "yuètòng zhe kǔxiào zhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "你走了 我们约好了/ nǐ zǒule wǒmen yuē hǎole",
+      "chinese": "你走了 我们约好了/",
+      "pinyin": "nǐ zǒule wǒmen yuē hǎole",
+      "type": "lyric"
+    },
+    {
+      "raw": "要比我快乐/ yào bǐwǒ kuàilè",
+      "chinese": "要比我快乐/",
+      "pinyin": "yào bǐwǒ kuàilè",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "怎么能轻易/ zěnme néng qīngyì",
+      "chinese": "怎么能轻易/",
+      "pinyin": "zěnme néng qīngyì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "说要结束/ shuōyào jiéshù",
+      "chinese": "说要结束/",
+      "pinyin": "shuōyào jiéshù",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么会让你/ zěnme huìràng nǐ",
+      "chinese": "怎么会让你/",
+      "pinyin": "zěnme huìràng nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "抱着我哭/ bàozhe wǒkū",
+      "chinese": "抱着我哭/",
+      "pinyin": "bàozhe wǒkū",
+      "type": "lyric"
+    },
+    {
+      "raw": "太努力的我们/ tài nǔlì de wǒmen",
+      "chinese": "太努力的我们/",
+      "pinyin": "tài nǔlì de wǒmen",
+      "type": "lyric"
+    },
+    {
+      "raw": "最后用力给祝福/ zuìhòu yònglì gěi zhùfú",
+      "chinese": "最后用力给祝福/",
+      "pinyin": "zuìhòu yònglì gěi zhùfú",
+      "type": "lyric"
+    },
+    {
+      "raw": "祝福我最爱的/ zhùfú wǒ zuì àide",
+      "chinese": "祝福我最爱的/",
+      "pinyin": "zhùfú wǒ zuì àide",
+      "type": "lyric"
+    },
+    {
+      "raw": "遇见更爱你的/ yùjiàn gèng ài nǐde",
+      "chinese": "遇见更爱你的/",
+      "pinyin": "yùjiàn gèng ài nǐde",
+      "type": "lyric"
+    },
+    {
+      "raw": "飞翔着/ fēixiáng zhe",
+      "chinese": "飞翔着/",
+      "pinyin": "fēixiáng zhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "怎么能轻易/ zěnme néng qīngyì",
+      "chinese": "怎么能轻易/",
+      "pinyin": "zěnme néng qīngyì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "说要结束/ shuōyào jiéshù",
+      "chinese": "说要结束/",
+      "pinyin": "shuōyào jiéshù",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么会让你/ zěnme huìràng nǐ",
+      "chinese": "怎么会让你/",
+      "pinyin": "zěnme huìràng nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "抱着我哭/ bàozhe wǒkū",
+      "chinese": "抱着我哭/",
+      "pinyin": "bàozhe wǒkū",
+      "type": "lyric"
+    },
+    {
+      "raw": "太努力的我们/ tài nǔlì de wǒmen",
+      "chinese": "太努力的我们/",
+      "pinyin": "tài nǔlì de wǒmen",
+      "type": "lyric"
+    },
+    {
+      "raw": "最后用力给祝福/ zuìhòu yònglì gěi zhùfú",
+      "chinese": "最后用力给祝福/",
+      "pinyin": "zuìhòu yònglì gěi zhùfú",
+      "type": "lyric"
+    },
+    {
+      "raw": "祝福我最爱的/ zhùfú wǒ zuì àide",
+      "chinese": "祝福我最爱的/",
+      "pinyin": "zhùfú wǒ zuì àide",
+      "type": "lyric"
+    },
+    {
+      "raw": "能永远飞翔着/ néng yǒngyuǎn fēixiáng zhe",
+      "chinese": "能永远飞翔着/",
+      "pinyin": "néng yǒngyuǎn fēixiáng zhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "原来我们/ yuánlái wǒmen",
+      "chinese": "原来我们/",
+      "pinyin": "yuánlái wǒmen",
+      "type": "lyric"
+    },
+    {
+      "raw": "都一样顽固/ dōu yīyàng wángù",
+      "chinese": "都一样顽固/",
+      "pinyin": "dōu yīyàng wángù",
+      "type": "lyric"
+    },
+    {
+      "raw": "怎么会谁都绝口/ zěnme huì shuídōu juékǒu",
+      "chinese": "怎么会谁都绝口/",
+      "pinyin": "zěnme huì shuídōu juékǒu",
+      "type": "lyric"
+    },
+    {
+      "raw": "不提要幸福/ bùtí yào xìngfú",
+      "chinese": "不提要幸福/",
+      "pinyin": "bùtí yào xìngfú",
+      "type": "lyric"
+    },
+    {
+      "raw": "再也不能牵着/ zàiyě bùnéng qiānzhe",
+      "chinese": "再也不能牵着/",
+      "pinyin": "zàiyě bùnéng qiānzhe",
+      "type": "lyric"
+    },
+    {
+      "raw": "你走未来每一步/ nǐ zǒu wèilái měi yībù",
+      "chinese": "你走未来每一步/",
+      "pinyin": "nǐ zǒu wèilái měi yībù",
+      "type": "lyric"
+    },
+    {
+      "raw": "我们怀念什么/ wǒmen huái niàn shénme",
+      "chinese": "我们怀念什么/",
+      "pinyin": "wǒmen huái niàn shénme",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "失去爱那一刻 才晓得/ shīqù àinà yīkè cáixiǎo dé",
+      "chinese": "失去爱那一刻 才晓得/",
+      "pinyin": "shīqù àinà yīkè cáixiǎo dé",
+      "type": "lyric"
+    }
+  ]
+}

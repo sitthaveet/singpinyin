@@ -1,0 +1,649 @@
+{
+  "key": "21443391_21443391",
+  "title": "看着我的眼睛说 / 看著我的眼睛說",
+  "artist": "張遠/张远 Zhang Yuan (Kan Zhe Wo De Yan Jing Shuo)",
+  "arranger": "_Hcn",
+  "web_url": "https://www.smule.com/song/arr/21443391_21443391",
+  "cover_url": "https://c-cf.cdn.smule.com/smule-gg-uw1-s-8/arr/28/27/fa7f3fea-092f-4ab7-a14d-6251004d81c9.jpg",
+  "has_lyrics": true,
+  "line_count": 106,
+  "lyric_line_count": 82,
+  "lines": [
+    {
+      "raw": "看着我的眼睛说 - 张远",
+      "chinese": "看着我的眼睛说 - 张远",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "作詞 : 黑奔馳BlackBenz",
+      "chinese": "作詞 : 黑奔馳",
+      "pinyin": "BlackBenz",
+      "type": "lyric"
+    },
+    {
+      "raw": "作曲 : 黑奔馳BlackBenz",
+      "chinese": "作曲 : 黑奔馳",
+      "pinyin": "BlackBenz",
+      "type": "lyric"
+    },
+    {
+      "raw": "編曲 : 李奕楠",
+      "chinese": "編曲 : 李奕楠",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "🍃✨🎶✨🎶✨🍃",
+      "chinese": "🍃✨🎶✨🎶✨🍃",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "今天你生日我 Jīn tiān nǐ shēng rì wǒ",
+      "chinese": "今天你生日我",
+      "pinyin": "Jīn tiān nǐ shēng rì wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "準備了好多 zhǔn bèi le hǎo duō",
+      "chinese": "準備了好多",
+      "pinyin": "zhǔn bèi le hǎo duō",
+      "type": "lyric"
+    },
+    {
+      "raw": "也把驚喜偷偷 yě bǎ jīng xǐ tōu tōu",
+      "chinese": "也把驚喜偷偷",
+      "pinyin": "yě bǎ jīng xǐ tōu tōu",
+      "type": "lyric"
+    },
+    {
+      "raw": "藏口袋左側 cáng kǒu dài zuǒ cè",
+      "chinese": "藏口袋左側",
+      "pinyin": "cáng kǒu dài zuǒ cè",
+      "type": "lyric"
+    },
+    {
+      "raw": "只等你 回家 zhǐ děng nǐ ,huí jiā",
+      "chinese": "只等你 回家",
+      "pinyin": "zhǐ děng nǐ ,huí jiā",
+      "type": "lyric"
+    },
+    {
+      "raw": "我就陪你過 wǒ jiù péi nǐ guò",
+      "chinese": "我就陪你過",
+      "pinyin": "wǒ jiù péi nǐ guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "再把準備 zài bǎ zhǔn bèi",
+      "chinese": "再把準備",
+      "pinyin": "zài bǎ zhǔn bèi",
+      "type": "lyric"
+    },
+    {
+      "raw": "很久的話對你說 hěn jiǔ de huà duì nǐ shuō",
+      "chinese": "很久的話對你說",
+      "pinyin": "hěn jiǔ de huà duì nǐ shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "天空好像 tiān kōng hǎo xiàng",
+      "chinese": "天空好像",
+      "pinyin": "tiān kōng hǎo xiàng",
+      "type": "lyric"
+    },
+    {
+      "raw": "隱隱要下起雨了 yǐn yǐn yào xià qǐ yǔ le",
+      "chinese": "隱隱要下起雨了",
+      "pinyin": "yǐn yǐn yào xià qǐ yǔ le",
+      "type": "lyric"
+    },
+    {
+      "raw": "我們坐在沙發 wǒ men zuò zài shā fā",
+      "chinese": "我們坐在沙發",
+      "pinyin": "wǒ men zuò zài shā fā",
+      "type": "lyric"
+    },
+    {
+      "raw": "上彼此沉默 shàng bǐ cǐ chén mò",
+      "chinese": "上彼此沉默",
+      "pinyin": "shàng bǐ cǐ chén mò",
+      "type": "lyric"
+    },
+    {
+      "raw": "我問你為什麽 wǒ wèn nǐ wèi shé me",
+      "chinese": "我問你為什麽",
+      "pinyin": "wǒ wèn nǐ wèi shé me",
+      "type": "lyric"
+    },
+    {
+      "raw": "說分手 shuō fēn shǒu",
+      "chinese": "說分手",
+      "pinyin": "shuō fēn shǒu",
+      "type": "lyric"
+    },
+    {
+      "raw": "是我 哪有錯 shì wǒ ,nǎ yǒu cuò",
+      "chinese": "是我 哪有錯",
+      "pinyin": "shì wǒ ,nǎ yǒu cuò",
+      "type": "lyric"
+    },
+    {
+      "raw": "你說我很好 nǐ shuō wǒ hěn hǎo",
+      "chinese": "你說我很好",
+      "pinyin": "nǐ shuō wǒ hěn hǎo",
+      "type": "lyric"
+    },
+    {
+      "raw": "只是他回來了 zhǐ shì tā huí lái le",
+      "chinese": "只是他回來了",
+      "pinyin": "zhǐ shì tā huí lái le",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "來 你看著我 lái ,nǐ kàn zhe wǒ",
+      "chinese": "來 你看著我",
+      "pinyin": "lái ,nǐ kàn zhe wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "的眼睛說 de yǎn jīng shuō",
+      "chinese": "的眼睛說",
+      "pinyin": "de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你從沒愛過我 nǐ cóng méi ài guò wǒ",
+      "chinese": "你從沒愛過我",
+      "pinyin": "nǐ cóng méi ài guò wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "再看著我的眼睛說 zài kàn zhe wǒ de yǎn jīng shuō",
+      "chinese": "再看著我的眼睛說",
+      "pinyin": "zài kàn zhe wǒ de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你一點都不難過 nǐ yī diǎn dōu bù nán guò",
+      "chinese": "你一點都不難過",
+      "pinyin": "nǐ yī diǎn dōu bù nán guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "我雖然沒那麽懂事 wǒ suī rán méi nà me dǒng shì",
+      "chinese": "我雖然沒那麽懂事",
+      "pinyin": "wǒ suī rán méi nà me dǒng shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "但絕不攔你這一次 dàn jué bù lán nǐ zhè yī cì",
+      "chinese": "但絕不攔你這一次",
+      "pinyin": "dàn jué bù lán nǐ zhè yī cì",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你說 rú guǒ nǐ shuō",
+      "chinese": "如果你說",
+      "pinyin": "rú guǒ nǐ shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "想要回到 xiǎng yào huí dào",
+      "chinese": "想要回到",
+      "pinyin": "xiǎng yào huí dào",
+      "type": "lyric"
+    },
+    {
+      "raw": "有他在的城市 yǒu tā zài de chéng shì",
+      "chinese": "有他在的城市",
+      "pinyin": "yǒu tā zài de chéng shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "來 你看著我 lái ,nǐ kàn zhe wǒ",
+      "chinese": "來 你看著我",
+      "pinyin": "lái ,nǐ kàn zhe wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "的眼睛說 de yǎn jīng shuō",
+      "chinese": "的眼睛說",
+      "pinyin": "de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你從沒愛過我 nǐ cóng méi ài guò wǒ",
+      "chinese": "你從沒愛過我",
+      "pinyin": "nǐ cóng méi ài guò wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "再看著我的眼睛說 zài kàn zhe wǒ de yǎn jīng shuō",
+      "chinese": "再看著我的眼睛說",
+      "pinyin": "zài kàn zhe wǒ de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你一點都不難過 nǐ yī diǎn dōu bù nán guò",
+      "chinese": "你一點都不難過",
+      "pinyin": "nǐ yī diǎn dōu bù nán guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "我攥緊手裡的戒指 wǒ zuàn jǐn shǒu lǐ de jiè zhǐ",
+      "chinese": "我攥緊手裡的戒指",
+      "pinyin": "wǒ zuàn jǐn shǒu lǐ de jiè zhǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "它本該有一個名字 tā běn gāi yǒu yī gè míng zì",
+      "chinese": "它本該有一個名字",
+      "pinyin": "tā běn gāi yǒu yī gè míng zì",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你生日願望 rú guǒ nǐ shēng rì yuàn wàng",
+      "chinese": "如果你生日願望",
+      "pinyin": "rú guǒ nǐ shēng rì yuàn wàng",
+      "type": "lyric"
+    },
+    {
+      "raw": "是回到他身旁 shì huí dào tā shēn páng",
+      "chinese": "是回到他身旁",
+      "pinyin": "shì huí dào tā shēn páng",
+      "type": "lyric"
+    },
+    {
+      "raw": "我幫你這最後一次 wǒ bāng nǐ zhè zuì hòu yī cì",
+      "chinese": "我幫你這最後一次",
+      "pinyin": "wǒ bāng nǐ zhè zuì hòu yī cì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "🎼🎶 Music 🎶🎼",
+      "chinese": "🎼🎶",
+      "pinyin": "Music 🎶🎼",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "明明說好 míng míng shuō hǎo",
+      "chinese": "明明說好",
+      "pinyin": "míng míng shuō hǎo",
+      "type": "lyric"
+    },
+    {
+      "raw": "去看好多風景的 qù kàn hǎo duō fēng jǐng de",
+      "chinese": "去看好多風景的",
+      "pinyin": "qù kàn hǎo duō fēng jǐng de",
+      "type": "lyric"
+    },
+    {
+      "raw": "吹著海風聽你 chuī zhe hǎi fēng tīng nǐ",
+      "chinese": "吹著海風聽你",
+      "pinyin": "chuī zhe hǎi fēng tīng nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "最愛聽的歌 zuì ài tīng de gē",
+      "chinese": "最愛聽的歌",
+      "pinyin": "zuì ài tīng de gē",
+      "type": "lyric"
+    },
+    {
+      "raw": "可那些承諾 kě nà xiē chéng nuò",
+      "chinese": "可那些承諾",
+      "pinyin": "kě nà xiē chéng nuò",
+      "type": "lyric"
+    },
+    {
+      "raw": "換個人也能做 huàn gè rén yě néng zuò",
+      "chinese": "換個人也能做",
+      "pinyin": "huàn gè rén yě néng zuò",
+      "type": "lyric"
+    },
+    {
+      "raw": "他憑什麽 tā píng shén me",
+      "chinese": "他憑什麽",
+      "pinyin": "tā píng shén me",
+      "type": "lyric"
+    },
+    {
+      "raw": "這麽簡單 zhè me jiǎn dān",
+      "chinese": "這麽簡單",
+      "pinyin": "zhè me jiǎn dān",
+      "type": "lyric"
+    },
+    {
+      "raw": "就能贏了我 jiù néng yíng le wǒ",
+      "chinese": "就能贏了我",
+      "pinyin": "jiù néng yíng le wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "來 你看著我 lái ,nǐ kàn zhe wǒ",
+      "chinese": "來 你看著我",
+      "pinyin": "lái ,nǐ kàn zhe wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "的眼睛說 de yǎn jīng shuō",
+      "chinese": "的眼睛說",
+      "pinyin": "de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你從沒愛過我 nǐ cóng méi ài guò wǒ",
+      "chinese": "你從沒愛過我",
+      "pinyin": "nǐ cóng méi ài guò wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "再看著我的眼睛說 zài kàn zhe wǒ de yǎn jīng shuō",
+      "chinese": "再看著我的眼睛說",
+      "pinyin": "zài kàn zhe wǒ de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你一點都不難過 nǐ yī diǎn dōu bù nán guò",
+      "chinese": "你一點都不難過",
+      "pinyin": "nǐ yī diǎn dōu bù nán guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "我雖然沒那麽懂事 wǒ suī rán méi nà me dǒng shì",
+      "chinese": "我雖然沒那麽懂事",
+      "pinyin": "wǒ suī rán méi nà me dǒng shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "但絕不攔你這一次 dàn jué bù lán nǐ zhè yī cì",
+      "chinese": "但絕不攔你這一次",
+      "pinyin": "dàn jué bù lán nǐ zhè yī cì",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你說 rú guǒ nǐ shuō",
+      "chinese": "如果你說",
+      "pinyin": "rú guǒ nǐ shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "想要回到 xiǎng yào huí dào",
+      "chinese": "想要回到",
+      "pinyin": "xiǎng yào huí dào",
+      "type": "lyric"
+    },
+    {
+      "raw": "有他在的城市 yǒu tā zài de chéng shì",
+      "chinese": "有他在的城市",
+      "pinyin": "yǒu tā zài de chéng shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "來 你看著我 lái ,nǐ kàn zhe wǒ",
+      "chinese": "來 你看著我",
+      "pinyin": "lái ,nǐ kàn zhe wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "的眼睛說 de yǎn jīng shuō",
+      "chinese": "的眼睛說",
+      "pinyin": "de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你從沒愛過我 nǐ cóng méi ài guò wǒ",
+      "chinese": "你從沒愛過我",
+      "pinyin": "nǐ cóng méi ài guò wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "再看著我的眼睛說 zài kàn zhe wǒ de yǎn jīng shuō",
+      "chinese": "再看著我的眼睛說",
+      "pinyin": "zài kàn zhe wǒ de yǎn jīng shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你一點都不難過 nǐ yī diǎn dōu bù nán guò",
+      "chinese": "你一點都不難過",
+      "pinyin": "nǐ yī diǎn dōu bù nán guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "我攥緊手裡的戒指 wǒ zuàn jǐn shǒu lǐ de jiè zhǐ",
+      "chinese": "我攥緊手裡的戒指",
+      "pinyin": "wǒ zuàn jǐn shǒu lǐ de jiè zhǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "它本該有一個名字 tā běn gāi yǒu yī gè míng zì",
+      "chinese": "它本該有一個名字",
+      "pinyin": "tā běn gāi yǒu yī gè míng zì",
+      "type": "lyric"
+    },
+    {
+      "raw": "如果你生日願望 rú guǒ nǐ shēng rì yuàn wàng",
+      "chinese": "如果你生日願望",
+      "pinyin": "rú guǒ nǐ shēng rì yuàn wàng",
+      "type": "lyric"
+    },
+    {
+      "raw": "是回到他身旁 shì huí dào tā shēn páng",
+      "chinese": "是回到他身旁",
+      "pinyin": "shì huí dào tā shēn páng",
+      "type": "lyric"
+    },
+    {
+      "raw": "我幫你這最後一次 wǒ bāng nǐ zhè zuì hòu yī cì",
+      "chinese": "我幫你這最後一次",
+      "pinyin": "wǒ bāng nǐ zhè zuì hòu yī cì",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "🎼🎶 Music 🎶🎼",
+      "chinese": "🎼🎶",
+      "pinyin": "Music 🎶🎼",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "來 擦乾你的眼淚說 lái, cā gān nǐ de yǎn lèi shuō",
+      "chinese": "來 擦乾你的眼淚說",
+      "pinyin": "lái, cā gān nǐ de yǎn lèi shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你曾經愛過我 nǐ céng jīng ài guò wǒ",
+      "chinese": "你曾經愛過我",
+      "pinyin": "nǐ céng jīng ài guò wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "再擦乾我的眼淚說 zài cā gān wǒ de yǎn lèi shuō",
+      "chinese": "再擦乾我的眼淚說",
+      "pinyin": "zài cā gān wǒ de yǎn lèi shuō",
+      "type": "lyric"
+    },
+    {
+      "raw": "你也會難過 nǐ yě huì nán guò",
+      "chinese": "你也會難過",
+      "pinyin": "nǐ yě huì nán guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "那是段美好的回憶 nà shì duàn měi hǎo de huí yì",
+      "chinese": "那是段美好的回憶",
+      "pinyin": "nà shì duàn měi hǎo de huí yì",
+      "type": "lyric"
+    },
+    {
+      "raw": "只是差了一個結局 zhǐ shì chà le yī gè jié jú",
+      "chinese": "只是差了一個結局",
+      "pinyin": "zhǐ shì chà le yī gè jié jú",
+      "type": "lyric"
+    },
+    {
+      "raw": "請記得我 qǐng jì dé wǒ",
+      "chinese": "請記得我",
+      "pinyin": "qǐng jì dé wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "曾認認真真 céng rèn rèn zhēn zhēn",
+      "chinese": "曾認認真真",
+      "pinyin": "céng rèn rèn zhēn zhēn",
+      "type": "lyric"
+    },
+    {
+      "raw": "的愛過 de ài guò",
+      "chinese": "的愛過",
+      "pinyin": "de ài guò",
+      "type": "lyric"
+    },
+    {
+      "raw": "該遺憾的 gāi yí hàn de..",
+      "chinese": "該遺憾的",
+      "pinyin": "gāi yí hàn de..",
+      "type": "lyric"
+    },
+    {
+      "raw": "不是我 bù shì wǒ",
+      "chinese": "不是我",
+      "pinyin": "bù shì wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Uploaded by HCN",
+      "chinese": "",
+      "pinyin": "Uploaded by HCN",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "🍓 Thank You 🍓",
+      "chinese": "🍓",
+      "pinyin": "Thank You 🍓",
+      "type": "lyric"
+    }
+  ]
+}

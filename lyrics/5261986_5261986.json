@@ -1,0 +1,577 @@
+{
+  "key": "5261986_5261986",
+  "title": "(KTV) 初雪 The First Snow (國-繁) chu xue",
+  "artist": "EXO-M (Kris吳亦凡,Lay張藝興,Luhan鹿晗,Tao黃子韜, Xiumin金珉錫 & Chen金鍾大)",
+  "arranger": "KAKALau2020",
+  "web_url": "https://www.smule.com/song/arr/5261986_5261986",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s80/arr/8f/41/036f8632-53e1-4f6a-bf59-af34ec1f72d1.jpg",
+  "has_lyrics": true,
+  "line_count": 94,
+  "lyric_line_count": 3,
+  "lines": [
+    {
+      "raw": "詞:林欣曄 曲:KENZIE / KIM JUNG BAE",
+      "chinese": "詞:林欣曄 曲:",
+      "pinyin": "KENZIE / KIM JUNG BAE",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "初雪(The First Snow)",
+      "chinese": "初雪(",
+      "pinyin": "The First Snow)",
+      "type": "lyric"
+    },
+    {
+      "raw": "EXO-M (Kris吳亦凡,Lay張藝興,Luhan鹿晗,Tao黃子韜,",
+      "chinese": "EXO-M (Kris吳亦凡,Lay張藝興,Luhan鹿晗,Tao黃子韜,",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Xiumin金珉錫 & Chen金鍾大)",
+      "chinese": "Xiumin金珉錫 & Chen金鍾大)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[Luhan]第一場雪下起的午後 想和你分享感動",
+      "chinese": "[Luhan]第一場雪下起的午後 想和你分享感動",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "卻 只沉默 對著話筒",
+      "chinese": "卻 只沉默 對著話筒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Xiumin]轉眼一年又悄然走過 對你的留戀占滿心中",
+      "chinese": "[Xiumin]轉眼一年又悄然走過 對你的留戀占滿心中",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "「是寂寞」喃喃對自己說",
+      "chinese": "「是寂寞」喃喃對自己說",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]若時光能倒流",
+      "chinese": "[ALL]若時光能倒流",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]回到那一年 相戀的感覺",
+      "chinese": "[Chen]回到那一年 相戀的感覺",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]若重回那初衷",
+      "chinese": "[ALL]若重回那初衷",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]一切是否會變得不同",
+      "chinese": "[Chen]一切是否會變得不同",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]Yeah 癡人說夢的念頭 但也許能夠",
+      "chinese": "[Lay]Yeah 癡人說夢的念頭 但也許能夠",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看著你的淚",
+      "chinese": "[ALL]看著你的淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Tao]仿佛責備我",
+      "chinese": "[Tao]仿佛責備我",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]傻得連挽留",
+      "chinese": "[ALL]傻得連挽留",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Tao]都無話可說",
+      "chinese": "[Tao]都無話可說",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]你好嗎 Merry Merry Christmas 祝你有更好的生活",
+      "chinese": "[Chen]你好嗎 Merry Merry Christmas 祝你有更好的生活",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看白雪飄落",
+      "chinese": "[ALL]看白雪飄落",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]在心的缺口",
+      "chinese": "[Kris]在心的缺口",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]能不能淹沒",
+      "chinese": "[ALL]能不能淹沒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]過去的所有傷痛",
+      "chinese": "[Kris]過去的所有傷痛",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]用歉意目送你的離去",
+      "chinese": "[Lay]用歉意目送你的離去",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Luhan]留下我一遍一遍後悔的Christmas",
+      "chinese": "[Luhan]留下我一遍一遍後悔的Christmas",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "(~MUSIC~間奏~)",
+      "chinese": "(~MUSIC~間奏~)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[Tao]回憶像街燈 灑滿街頭別人的幸福",
+      "chinese": "[Tao]回憶像街燈 灑滿街頭別人的幸福",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "閃爍在我的眼中",
+      "chinese": "閃爍在我的眼中",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Luhan]以為你就是我的呼吸 永遠給我愛的勇氣",
+      "chinese": "[Luhan]以為你就是我的呼吸 永遠給我愛的勇氣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "傻得讓你走 (Kris:我真的對不起)",
+      "chinese": "傻得讓你走 (Kris:我真的對不起)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]多平凡的道理",
+      "chinese": "[ALL]多平凡的道理",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]總是要失去 才懂得珍惜",
+      "chinese": "[Chen]總是要失去 才懂得珍惜",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]無法原諒自己",
+      "chinese": "[ALL]無法原諒自己",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]已來不及 再回到過去",
+      "chinese": "[Chen]已來不及 再回到過去",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Tao]請相信 我能為你 改變的決心",
+      "chinese": "[Tao]請相信 我能為你 改變的決心",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看著你的淚",
+      "chinese": "[ALL]看著你的淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]仿佛責備我",
+      "chinese": "[Lay]仿佛責備我",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]傻得連挽留",
+      "chinese": "[ALL]傻得連挽留",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]都無話可說",
+      "chinese": "[Lay]都無話可說",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Luhan]你好嗎 Merry Merry Christmas祝你有更好的生活",
+      "chinese": "[Luhan]你好嗎 Merry Merry Christmas祝你有更好的生活",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看白雪飄落",
+      "chinese": "[ALL]看白雪飄落",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]在心的缺口",
+      "chinese": "[Kris]在心的缺口",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]能不能淹沒",
+      "chinese": "[ALL]能不能淹沒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]過去的所有傷痛",
+      "chinese": "[Kris]過去的所有傷痛",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Xiumin]臉上凍結 是雪還是淚",
+      "chinese": "[Xiumin]臉上凍結 是雪還是淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]隨著你 愈來愈遠的這 Christmas",
+      "chinese": "[Chen]隨著你 愈來愈遠的這 Christmas",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[Luhan]祈禱著奇跡 能再度降臨",
+      "chinese": "[Luhan]祈禱著奇跡 能再度降臨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在我的眼裡 才會想你就會流淚",
+      "chinese": "在我的眼裡 才會想你就會流淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Xiumin]Tears are Falling FallingFalling",
+      "chinese": "[",
+      "pinyin": "Xiumin]Tears are Falling FallingFalling",
+      "type": "lyric"
+    },
+    {
+      "raw": "[Kris]就算只有一天 用我僅有",
+      "chinese": "[Kris]就算只有一天 用我僅有",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]一切交換回到你身邊",
+      "chinese": "[Lay]一切交換回到你身邊",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]點燃生命火焰 直到終於為你熄滅 Girl",
+      "chinese": "[Chen]點燃生命火焰 直到終於為你熄滅 Girl",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看著你的淚",
+      "chinese": "[ALL]看著你的淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]仿佛責備我",
+      "chinese": "[Lay]仿佛責備我",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]傻得連挽留",
+      "chinese": "[ALL]傻得連挽留",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]都無話可說",
+      "chinese": "[Lay]都無話可說",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Luhan]你好嗎 Merry Merry Christmas祝你有更好的生活",
+      "chinese": "[Luhan]你好嗎 Merry Merry Christmas祝你有更好的生活",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看白雪飄落",
+      "chinese": "[ALL]看白雪飄落",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Tao]在心的缺口",
+      "chinese": "[Tao]在心的缺口",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]能不能淹沒",
+      "chinese": "[ALL]能不能淹沒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Tao]過去的所有傷痛",
+      "chinese": "[Tao]過去的所有傷痛",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]用歉意目送你的離去",
+      "chinese": "[Lay]用歉意目送你的離去",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Luhan]留下我一遍一遍後悔",
+      "chinese": "[Luhan]留下我一遍一遍後悔",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看著你的淚",
+      "chinese": "[ALL]看著你的淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]仿佛責備我 (Luhan:仿佛責備我)",
+      "chinese": "[Lay]仿佛責備我 (Luhan:仿佛責備我)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]傻得連挽留",
+      "chinese": "[ALL]傻得連挽留",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]都無話可說",
+      "chinese": "[Lay]都無話可說",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]Merry Merry Christmas 祝你幸福生活",
+      "chinese": "[Chen]Merry Merry Christmas 祝你幸福生活",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "[ALL]看白雪飄落",
+      "chinese": "[ALL]看白雪飄落",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]在心的缺口",
+      "chinese": "[Kris]在心的缺口",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[ALL]能不能淹沒",
+      "chinese": "[ALL]能不能淹沒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Kris]過去的所有傷痛",
+      "chinese": "[Kris]過去的所有傷痛",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Lay]臉上凍結 是雪還是淚",
+      "chinese": "[Lay]臉上凍結 是雪還是淚",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "[Chen]隨著你 愈來愈遠的這次 Christmas",
+      "chinese": "[Chen]隨著你 愈來愈遠的這次 Christmas",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "thanks for joining...Merry X'mas",
+      "chinese": "",
+      "pinyin": "thanks for joining...Merry X'mas",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Uploaded by KAKALau2020",
+      "chinese": "",
+      "pinyin": "Uploaded by KAKALau2020",
+      "type": "pinyin-only"
+    }
+  ]
+}

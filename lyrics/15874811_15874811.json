@@ -1,0 +1,565 @@
+{
+  "key": "15874811_15874811",
+  "title": "如果可以 (Red Scarf)",
+  "artist": "韋禮安",
+  "arranger": "DreamerLisa",
+  "web_url": "https://www.smule.com/song/arr/15874811_15874811",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s-sf-4/arr/ec/46/53d1e2de-83f8-46b0-b761-4eac6fd1ab73.jpg",
+  "has_lyrics": true,
+  "line_count": 92,
+  "lyric_line_count": 3,
+  "lines": [
+    {
+      "raw": "韋禮安",
+      "chinese": "韋禮安",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以",
+      "chinese": "如果可以",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "電影 月老 主題曲",
+      "chinese": "電影 月老 主題曲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "作詞：九把刀",
+      "chinese": "作詞：九把刀",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "作曲：韋禮安、JerryC",
+      "chinese": "作曲：韋禮安、",
+      "pinyin": "JerryC",
+      "type": "lyric"
+    },
+    {
+      "raw": "編曲：JerryC",
+      "chinese": "編曲：",
+      "pinyin": "JerryC",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "妳的聲音 解開了 故事的謎語",
+      "chinese": "妳的聲音 解開了 故事的謎語",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "落下一萬年的約定",
+      "chinese": "落下一萬年的約定",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "大樹下的妳 紅色圍巾",
+      "chinese": "大樹下的妳 紅色圍巾",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "手心裡捧的雨",
+      "chinese": "手心裡捧的雨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "哭了笑了 除了妳還是妳",
+      "chinese": "哭了笑了 除了妳還是妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "我們 如果又一次錯過",
+      "chinese": "我們 如果又一次錯過",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不敢牽起妳的手",
+      "chinese": "不敢牽起妳的手",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "我會多麼寂寞",
+      "chinese": "我會多麼寂寞",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "等待紅線來的 時候",
+      "chinese": "等待紅線來的 時候",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以 我想和妳",
+      "chinese": "如果可以 我想和妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "回到那天 相遇",
+      "chinese": "回到那天 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "讓時間停止 那一場雨",
+      "chinese": "讓時間停止 那一場雨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "只想擁抱 妳在身邊的證據",
+      "chinese": "只想擁抱 妳在身邊的證據",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "吻妳的呼吸",
+      "chinese": "吻妳的呼吸",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "一眨眼 一瞬間",
+      "chinese": "一眨眼 一瞬間",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "妳說好就是永遠",
+      "chinese": "妳說好就是永遠",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不會變",
+      "chinese": "不會變",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Music~",
+      "chinese": "",
+      "pinyin": "Music~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "ooh~",
+      "chinese": "",
+      "pinyin": "ooh~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "oh~",
+      "chinese": "",
+      "pinyin": "oh~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Music~",
+      "chinese": "",
+      "pinyin": "Music~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "大樹下的妳 紅色圍巾",
+      "chinese": "大樹下的妳 紅色圍巾",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "手心裡捧的雨",
+      "chinese": "手心裡捧的雨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "哭了笑了 除了妳還是妳",
+      "chinese": "哭了笑了 除了妳還是妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "我們 如果又一次錯過",
+      "chinese": "我們 如果又一次錯過",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不敢牽起妳的手",
+      "chinese": "不敢牽起妳的手",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如果沒有如果",
+      "chinese": "如果沒有如果",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "等到紅線來的 時候",
+      "chinese": "等到紅線來的 時候",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以 我想和妳",
+      "chinese": "如果可以 我想和妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "回到那天 相遇",
+      "chinese": "回到那天 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "讓時間停止 那一場雨",
+      "chinese": "讓時間停止 那一場雨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "只想擁抱 妳在身邊的證據",
+      "chinese": "只想擁抱 妳在身邊的證據",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "吻妳的呼吸",
+      "chinese": "吻妳的呼吸",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "一眨眼 一瞬間",
+      "chinese": "一眨眼 一瞬間",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "妳說好就是永遠",
+      "chinese": "妳說好就是永遠",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以 茫茫人海",
+      "chinese": "如果可以 茫茫人海",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "千年一眼 相遇",
+      "chinese": "千年一眼 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "月光下轉身 那就是妳",
+      "chinese": "月光下轉身 那就是妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "紅線劃過 深藏輪迴的秘密",
+      "chinese": "紅線劃過 深藏輪迴的秘密",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "我揮霍運氣",
+      "chinese": "我揮霍運氣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "因為妳 才讓我",
+      "chinese": "因為妳 才讓我",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "背對命運 不害怕",
+      "chinese": "背對命運 不害怕",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "靠近了 相信了",
+      "chinese": "靠近了 相信了",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "到底我們愛得有多狼狽",
+      "chinese": "到底我們愛得有多狼狽",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "暴雨狂風也 不想防備",
+      "chinese": "暴雨狂風也 不想防備",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "愛了 就愛了",
+      "chinese": "愛了 就愛了",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "只刻在我們淚光 的約定",
+      "chinese": "只刻在我們淚光 的約定",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "火開出了花",
+      "chinese": "火開出了花",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以 我想和妳",
+      "chinese": "如果可以 我想和妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "回到那天 相遇",
+      "chinese": "回到那天 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "讓時間停止 那一場雨",
+      "chinese": "讓時間停止 那一場雨",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "只想擁抱 妳在身邊的證據",
+      "chinese": "只想擁抱 妳在身邊的證據",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "吻妳的呼吸",
+      "chinese": "吻妳的呼吸",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "一眨眼 一萬年",
+      "chinese": "一眨眼 一萬年",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "留給我 別困住妳",
+      "chinese": "留給我 別困住妳",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "如果可以 茫茫人海",
+      "chinese": "如果可以 茫茫人海",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "千年一眼 相遇",
+      "chinese": "千年一眼 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "月光下轉身 那就是妳 (就是妳)",
+      "chinese": "月光下轉身 那就是妳 (就是妳)",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "紅線劃過 深藏輪迴的秘密",
+      "chinese": "紅線劃過 深藏輪迴的秘密",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "我花光運氣",
+      "chinese": "我花光運氣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "妳是我 賭上世界的 決定",
+      "chinese": "妳是我 賭上世界的 決定",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "@DreamerLisa",
+      "chinese": "@",
+      "pinyin": "DreamerLisa",
+      "type": "lyric"
+    },
+    {
+      "raw": "Please follow and rate",
+      "chinese": "",
+      "pinyin": "Please follow and rate",
+      "type": "pinyin-only"
+    }
+  ]
+}

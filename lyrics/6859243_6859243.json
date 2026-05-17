@@ -1,0 +1,601 @@
+{
+  "key": "6859243_6859243",
+  "title": "綠光",
+  "artist": "孫燕姿",
+  "arranger": "DreamerLisa",
+  "web_url": "https://www.smule.com/song/arr/6859243_6859243",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s77/arr/d7/65/95afcf44-bb8e-442e-867e-87d95cd0cc91.jpg",
+  "has_lyrics": true,
+  "line_count": 98,
+  "lyric_line_count": 4,
+  "lines": [
+    {
+      "raw": "孫燕姿-綠光",
+      "chinese": "孫燕姿-綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Green Light's right here",
+      "chinese": "",
+      "pinyin": "Green Light's right here",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "身邊 身邊...",
+      "chinese": "身邊 身邊...",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "期待著一個幸運",
+      "chinese": "期待著一個幸運",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "和一個衝擊",
+      "chinese": "和一個衝擊",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "多麼奇妙的際遇",
+      "chinese": "多麼奇妙的際遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "翻越過前面山頂",
+      "chinese": "翻越過前面山頂",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "和層層白雲",
+      "chinese": "和層層白雲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "綠光在哪裡",
+      "chinese": "綠光在哪裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "觸電般不可思議",
+      "chinese": "觸電般不可思議",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "像一個奇蹟",
+      "chinese": "像一個奇蹟",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "劃過我的生命裡",
+      "chinese": "劃過我的生命裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不同於任何意義",
+      "chinese": "不同於任何意義",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "你就是綠光",
+      "chinese": "你就是綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如此的唯一",
+      "chinese": "如此的唯一",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Green Light I'm searching for you",
+      "chinese": "",
+      "pinyin": "Green Light I'm searching for you",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Always 不會怯步",
+      "chinese": "Always 不會怯步",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "喔 真愛 不會結束",
+      "chinese": "喔 真愛 不會結束",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Green Light in my life",
+      "chinese": "",
+      "pinyin": "Green Light in my life",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "遇見了一個傳奇",
+      "chinese": "遇見了一個傳奇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "卻如此熟悉",
+      "chinese": "卻如此熟悉",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在天空裡的精靈",
+      "chinese": "在天空裡的精靈",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "說一聲listen to me",
+      "chinese": "說一聲",
+      "pinyin": "listen to me",
+      "type": "lyric"
+    },
+    {
+      "raw": "有一道綠光",
+      "chinese": "有一道綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "幸福在哪裡",
+      "chinese": "幸福在哪裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "觸電般不可思議",
+      "chinese": "觸電般不可思議",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "像一個奇蹟",
+      "chinese": "像一個奇蹟",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "劃過我的生命裡",
+      "chinese": "劃過我的生命裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不同於任何意義",
+      "chinese": "不同於任何意義",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "你就是綠光",
+      "chinese": "你就是綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如此的唯一",
+      "chinese": "如此的唯一",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "(Rap)",
+      "chinese": "(",
+      "pinyin": "Rap)",
+      "type": "lyric"
+    },
+    {
+      "raw": "Maybe it's a myth I'm seeking You say",
+      "chinese": "",
+      "pinyin": "Maybe it's a myth I'm seeking You say",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Maybe it's a wild dragon chase anyway",
+      "chinese": "",
+      "pinyin": "Maybe it's a wild dragon chase anyway",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "But still,I'm gonna listen",
+      "chinese": "",
+      "pinyin": "But still,I'm gonna listen",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "to my heart and try",
+      "chinese": "",
+      "pinyin": "to my heart and try",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Pack up all my load",
+      "chinese": "",
+      "pinyin": "Pack up all my load",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "So long,good bye",
+      "chinese": "",
+      "pinyin": "So long,good bye",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Heah~ oh~",
+      "chinese": "",
+      "pinyin": "Heah~ oh~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Green Light I'm searching for you",
+      "chinese": "",
+      "pinyin": "Green Light I'm searching for you",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Always 不會怯步",
+      "chinese": "Always 不會怯步",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "喔 真愛 不會結束",
+      "chinese": "喔 真愛 不會結束",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Green Light in my life",
+      "chinese": "",
+      "pinyin": "Green Light in my life",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "期待著一個幸運",
+      "chinese": "期待著一個幸運",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "和一個衝擊",
+      "chinese": "和一個衝擊",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "多麼奇妙的際遇",
+      "chinese": "多麼奇妙的際遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "翻越過前面山頂",
+      "chinese": "翻越過前面山頂",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "和層層白雲",
+      "chinese": "和層層白雲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "綠光在哪裡",
+      "chinese": "綠光在哪裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "觸電般不可思議",
+      "chinese": "觸電般不可思議",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "像一個奇蹟",
+      "chinese": "像一個奇蹟",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "劃過我的生命裡",
+      "chinese": "劃過我的生命裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不同於任何意義",
+      "chinese": "不同於任何意義",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "你就是綠光",
+      "chinese": "你就是綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如此的唯一",
+      "chinese": "如此的唯一",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Music~",
+      "chinese": "",
+      "pinyin": "Music~",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "啦...",
+      "chinese": "啦...",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "Green Light's right here",
+      "chinese": "",
+      "pinyin": "Green Light's right here",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "愛永遠在你身邊",
+      "chinese": "愛永遠在你身邊",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "身邊 身邊...",
+      "chinese": "身邊 身邊...",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "遇見了一個傳奇",
+      "chinese": "遇見了一個傳奇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "卻如此熟悉",
+      "chinese": "卻如此熟悉",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在天空裡的精靈",
+      "chinese": "在天空裡的精靈",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "說一聲listen to me",
+      "chinese": "說一聲",
+      "pinyin": "listen to me",
+      "type": "lyric"
+    },
+    {
+      "raw": "有一道綠光",
+      "chinese": "有一道綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "幸福在哪裡",
+      "chinese": "幸福在哪裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "觸電般不可思議",
+      "chinese": "觸電般不可思議",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "像一個奇蹟",
+      "chinese": "像一個奇蹟",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "劃過我的生命裡",
+      "chinese": "劃過我的生命裡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不同於任何意義",
+      "chinese": "不同於任何意義",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "你就是綠光",
+      "chinese": "你就是綠光",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如此的唯一",
+      "chinese": "如此的唯一",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "NA...",
+      "chinese": "",
+      "pinyin": "NA...",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "這是最美的傳遞",
+      "chinese": "這是最美的傳遞",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在我心裡 你就是唯一",
+      "chinese": "在我心裡 你就是唯一",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "@DreamerLisa",
+      "chinese": "@",
+      "pinyin": "DreamerLisa",
+      "type": "lyric"
+    },
+    {
+      "raw": "Please follow and rate",
+      "chinese": "",
+      "pinyin": "Please follow and rate",
+      "type": "pinyin-only"
+    }
+  ]
+}

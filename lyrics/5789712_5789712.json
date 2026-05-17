@@ -1,0 +1,475 @@
+{
+  "key": "5789712_5789712",
+  "title": "一步成诗",
+  "artist": "Diana Wang 王詩安",
+  "arranger": "tichnguyetyiyi",
+  "web_url": "https://www.smule.com/song/arr/5789712_5789712",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s79/arr/e4/b9/d97ce20a-203a-4052-b897-6b2a492816f4.jpg",
+  "has_lyrics": true,
+  "line_count": 77,
+  "lyric_line_count": 6,
+  "lines": [
+    {
+      "raw": "Dong feng ye fang hua qian shu",
+      "chinese": "",
+      "pinyin": "Dong feng ye fang hua qian shu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Shu xia zong you di",
+      "chinese": "",
+      "pinyin": "Shu xia zong you di",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zong ran bao ma diao",
+      "chinese": "",
+      "pinyin": "Zong ran bao ma diao",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "che piao xiang man lu",
+      "chinese": "",
+      "pinyin": "che piao xiang man lu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Lu shang ke you ni",
+      "chinese": "",
+      "pinyin": "Lu shang ke you ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zou zai da cheng zhi Guo zhe xiao ri zi",
+      "chinese": "",
+      "pinyin": "Zou zai da cheng zhi Guo zhe xiao ri zi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi pa yue lai ye zhi",
+      "chinese": "",
+      "pinyin": "Zhi pa yue lai ye zhi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "you shi mei you qing",
+      "chinese": "",
+      "pinyin": "you shi mei you qing",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi pa yong yuan dou hui huai yi",
+      "chinese": "",
+      "pinyin": "Zhi pa yong yuan dou hui huai yi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Wo zou zai he xi",
+      "chinese": "",
+      "pinyin": "Wo zou zai he xi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Ni que zai he di",
+      "chinese": "",
+      "pinyin": "Ni que zai he di",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "<<Suan shenme ju li kao shen me yun ji",
+      "chinese": "<<",
+      "pinyin": "Suan shenme ju li kao shen me yun ji",
+      "type": "lyric"
+    },
+    {
+      "raw": "Wo he ni zhi qian>>",
+      "chinese": "",
+      "pinyin": "Wo he ni zhi qian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Cha le yi bu hai shi qian li",
+      "chinese": "",
+      "pinyin": "Cha le yi bu hai shi qian li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "<<You shenme kai shi mei shenme dao li",
+      "chinese": "<<",
+      "pinyin": "You shenme kai shi mei shenme dao li",
+      "type": "lyric"
+    },
+    {
+      "raw": "You mei you shi jian>>",
+      "chinese": "",
+      "pinyin": "You mei you shi jian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Bu yao wang ji",
+      "chinese": "",
+      "pinyin": "Bu yao wang ji",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "You ren zuo guo qi bu cheng ta de shi",
+      "chinese": "",
+      "pinyin": "You ren zuo guo qi bu cheng ta de shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yuan wo yi bu you wo de ni",
+      "chinese": "",
+      "pinyin": "Yuan wo yi bu you wo de ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Chun hua pei wo zai zhe li",
+      "chinese": "",
+      "pinyin": "Chun hua pei wo zai zhe li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe geng mei li",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe geng mei li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Qiu yue zai na li",
+      "chinese": "",
+      "pinyin": "Qiu yue zai na li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe ai ni",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe ai ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Zhong li xun ta qian bai du",
+      "chinese": "",
+      "pinyin": "Zhong li xun ta qian bai du",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Wan li wu gu shi",
+      "chinese": "",
+      "pinyin": "Wan li wu gu shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi yao ni zai deng huo lan shan zhi chu",
+      "chinese": "",
+      "pinyin": "Zhi yao ni zai deng huo lan shan zhi chu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi bu jiu cheng shi",
+      "chinese": "",
+      "pinyin": "Yi bu jiu cheng shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Guo zhe xiao ri zi xiang zhe da mi si",
+      "chinese": "",
+      "pinyin": "Guo zhe xiao ri zi xiang zhe da mi si",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi pa yue lai ye zhi",
+      "chinese": "",
+      "pinyin": "Zhi pa yue lai ye zhi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "you shi mei you qing",
+      "chinese": "",
+      "pinyin": "you shi mei you qing",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi pa yong yuan dou hui huai yi",
+      "chinese": "",
+      "pinyin": "Zhi pa yong yuan dou hui huai yi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Wo zou zai he xi",
+      "chinese": "",
+      "pinyin": "Wo zou zai he xi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Ni que zai he di",
+      "chinese": "",
+      "pinyin": "Ni que zai he di",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "<<Suan shenme ju li kao shen me yun ji",
+      "chinese": "<<",
+      "pinyin": "Suan shenme ju li kao shen me yun ji",
+      "type": "lyric"
+    },
+    {
+      "raw": "Wo he ni zhi qian>>",
+      "chinese": "",
+      "pinyin": "Wo he ni zhi qian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Cha le yi bu hai shi qian li",
+      "chinese": "",
+      "pinyin": "Cha le yi bu hai shi qian li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "<<You shenme kai shi mei shenme dao li",
+      "chinese": "<<",
+      "pinyin": "You shenme kai shi mei shenme dao li",
+      "type": "lyric"
+    },
+    {
+      "raw": "You mei you shi jian>>",
+      "chinese": "",
+      "pinyin": "You mei you shi jian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Bu yao wang ji",
+      "chinese": "",
+      "pinyin": "Bu yao wang ji",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "You ren zuo guo qi bu cheng ta de shi",
+      "chinese": "",
+      "pinyin": "You ren zuo guo qi bu cheng ta de shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yuan wo yi bu you wo de ni",
+      "chinese": "",
+      "pinyin": "Yuan wo yi bu you wo de ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Chun hua pei wo zai zhe li",
+      "chinese": "",
+      "pinyin": "Chun hua pei wo zai zhe li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe geng mei li",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe geng mei li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Qiu yue zai na li",
+      "chinese": "",
+      "pinyin": "Qiu yue zai na li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe ai ni",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe ai ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Zhao zhao mu mu fan fan fu fu",
+      "chinese": "",
+      "pinyin": "Zhao zhao mu mu fan fan fu fu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "You duo shao han zi xie",
+      "chinese": "",
+      "pinyin": "You duo shao han zi xie",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "guo yi zhong xiao xing fu",
+      "chinese": "",
+      "pinyin": "guo yi zhong xiao xing fu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Jin feng you yu lu sheng",
+      "chinese": "",
+      "pinyin": "Jin feng you yu lu sheng",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "que ren jian wu shu",
+      "chinese": "",
+      "pinyin": "que ren jian wu shu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Ye xu zai duo zou yi bu",
+      "chinese": "",
+      "pinyin": "Ye xu zai duo zou yi bu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "shan shui zai you xi",
+      "chinese": "",
+      "pinyin": "shan shui zai you xi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zai duo zou yi bu tian di zuo chuan qi",
+      "chinese": "",
+      "pinyin": "Zai duo zou yi bu tian di zuo chuan qi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zai duo zou yi bu kan wo bian cheng shi",
+      "chinese": "",
+      "pinyin": "Zai duo zou yi bu kan wo bian cheng shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Jiu wei le ni",
+      "chinese": "",
+      "pinyin": "Jiu wei le ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "<<Suan shenme ju li kao shen me yun ji",
+      "chinese": "<<",
+      "pinyin": "Suan shenme ju li kao shen me yun ji",
+      "type": "lyric"
+    },
+    {
+      "raw": "Wo he ni zhi qian>>",
+      "chinese": "",
+      "pinyin": "Wo he ni zhi qian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Cha le yi bu hai shi qian li",
+      "chinese": "",
+      "pinyin": "Cha le yi bu hai shi qian li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "<<You shenme kai shi mei shenme dao li",
+      "chinese": "<<",
+      "pinyin": "You shenme kai shi mei shenme dao li",
+      "type": "lyric"
+    },
+    {
+      "raw": "You mei you shi jian>>",
+      "chinese": "",
+      "pinyin": "You mei you shi jian>>",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Bu yao wang ji",
+      "chinese": "",
+      "pinyin": "Bu yao wang ji",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "You ren zuo guo qi bu cheng ta de shi",
+      "chinese": "",
+      "pinyin": "You ren zuo guo qi bu cheng ta de shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yuan wo yi bu you wo de ni",
+      "chinese": "",
+      "pinyin": "Yuan wo yi bu you wo de ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Chun hua pei wo zai zhe li",
+      "chinese": "",
+      "pinyin": "Chun hua pei wo zai zhe li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe geng mei li",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe geng mei li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Qiu yue zai ni li",
+      "chinese": "",
+      "pinyin": "Qiu yue zai ni li",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi ge ren deng zhe ai ni",
+      "chinese": "",
+      "pinyin": "Yi ge ren deng zhe ai ni",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhong li xun ta qian bai du",
+      "chinese": "",
+      "pinyin": "Zhong li xun ta qian bai du",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Wan li wu gu shi",
+      "chinese": "",
+      "pinyin": "Wan li wu gu shi",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Zhi yao ni zai deng huo lan shan zhi chu",
+      "chinese": "",
+      "pinyin": "Zhi yao ni zai deng huo lan shan zhi chu",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "Yi bu jiu cheng shi",
+      "chinese": "",
+      "pinyin": "Yi bu jiu cheng shi",
+      "type": "pinyin-only"
+    }
+  ]
+}

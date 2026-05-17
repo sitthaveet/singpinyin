@@ -1,5 +1,5 @@
-<!-- BEGIN:nextjs-agent-rules -->
-# This is NOT the Next.js you know
+# Overview
 
-This version has breaking changes — APIs, conventions, and file structure may all differ from your training data. Read the relevant guide in `node_modules/next/dist/docs/` before writing any code. Heed deprecation notices.
-<!-- END:nextjs-agent-rules -->
+This is the karaoke lyrics web page. We will only have Chinese songs with the Mandarin and Pinyin lyrics. The songs are stored in `songs.json` file.
+
+Frontend is NextJS and no backend

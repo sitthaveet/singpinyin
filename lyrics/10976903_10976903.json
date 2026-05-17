@@ -1,0 +1,613 @@
+{
+  "key": "10976903_10976903",
+  "title": "想見你想見你想見你",
+  "artist": "八三夭",
+  "arranger": "DreamerLisa",
+  "web_url": "https://www.smule.com/song/arr/10976903_10976903",
+  "cover_url": "https://c-cf.cdn.smule.com/rs-s-sf-2/arr/70/36/05050225-fde3-4c21-a938-186d8ec0ed94.jpg",
+  "has_lyrics": true,
+  "line_count": 100,
+  "lyric_line_count": 2,
+  "lines": [
+    {
+      "raw": "八三夭",
+      "chinese": "八三夭",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你想見你想見你",
+      "chinese": "想見你想見你想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "電視劇 想見你 片尾曲",
+      "chinese": "電視劇 想見你 片尾曲",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "作詞：八三夭 阿璞",
+      "chinese": "作詞：八三夭 阿璞",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "作曲：八三夭 阿璞",
+      "chinese": "作曲：八三夭 阿璞",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "編曲：八三夭、JerryC",
+      "chinese": "編曲：八三夭、",
+      "pinyin": "JerryC",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "當愛情遺落成遺跡",
+      "chinese": "當愛情遺落成遺跡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "用象形刻劃成回憶",
+      "chinese": "用象形刻劃成回憶",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想念幾個世紀",
+      "chinese": "想念幾個世紀",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "才是刻骨銘心",
+      "chinese": "才是刻骨銘心",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "若能回到冰河時期",
+      "chinese": "若能回到冰河時期",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "多想把你抱緊處理",
+      "chinese": "多想把你抱緊處理",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "你的笑多療癒",
+      "chinese": "你的笑多療癒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "讓人生也甦醒",
+      "chinese": "讓人生也甦醒",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "失去 你的風景",
+      "chinese": "失去 你的風景",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "像座廢墟 像失落文明",
+      "chinese": "像座廢墟 像失落文明",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "能否 一場奇蹟 一線生機",
+      "chinese": "能否 一場奇蹟 一線生機",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "能不能 有再一次 相遇",
+      "chinese": "能不能 有再一次 相遇",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 只想見你",
+      "chinese": "想見你 只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "未來過去 我只想見你",
+      "chinese": "未來過去 我只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "穿越了 千個萬個",
+      "chinese": "穿越了 千個萬個",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "時間線裡 人海裡相依",
+      "chinese": "時間線裡 人海裡相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "用盡了 邏輯心機",
+      "chinese": "用盡了 邏輯心機",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "推理愛情 最難解的謎",
+      "chinese": "推理愛情 最難解的謎",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 妳也 和我一樣",
+      "chinese": "會不會 妳也 和我一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在等待一句 我願意",
+      "chinese": "在等待一句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Music~(Oh~)",
+      "chinese": "",
+      "pinyin": "Music~(Oh~)",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "任時光更迭了四季",
+      "chinese": "任時光更迭了四季",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "任宇宙物換或星移",
+      "chinese": "任宇宙物換或星移",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "永遠不退流行",
+      "chinese": "永遠不退流行",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "是青澀的真心",
+      "chinese": "是青澀的真心",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "未來 先進科技",
+      "chinese": "未來 先進科技",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "無法模擬 你擁抱暖意",
+      "chinese": "無法模擬 你擁抱暖意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "如果 另個時空 另個身體",
+      "chinese": "如果 另個時空 另個身體",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "能不能 換另一種 結局",
+      "chinese": "能不能 換另一種 結局",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 只想見你",
+      "chinese": "想見你 只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "未來過去 我只想見你",
+      "chinese": "未來過去 我只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "穿越了 千個萬個",
+      "chinese": "穿越了 千個萬個",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "時間線裡 人海裡相依",
+      "chinese": "時間線裡 人海裡相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "用盡了 邏輯心機",
+      "chinese": "用盡了 邏輯心機",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "推理愛情 最難解的謎",
+      "chinese": "推理愛情 最難解的謎",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 妳也 和我一樣",
+      "chinese": "會不會 妳也 和我一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在等待一句 我願意",
+      "chinese": "在等待一句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 每個朝夕",
+      "chinese": "想見你 每個朝夕",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想見你 每個表情",
+      "chinese": "想見你 每個表情",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想穿越 每個平行",
+      "chinese": "想穿越 每個平行",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在未來 和過去 緊緊相依",
+      "chinese": "在未來 和過去 緊緊相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想follow 每則IG",
+      "chinese": "想follow 每則IG",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不錯過 你的蹤跡",
+      "chinese": "不錯過 你的蹤跡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 你也一樣",
+      "chinese": "會不會 你也一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "等待著那句 我願意",
+      "chinese": "等待著那句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 只想見你",
+      "chinese": "想見你 只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "未來過去 我只想見你",
+      "chinese": "未來過去 我只想見你",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "穿越了 千個萬個",
+      "chinese": "穿越了 千個萬個",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "時間線裡 人海裡相依",
+      "chinese": "時間線裡 人海裡相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "用盡了 邏輯心機",
+      "chinese": "用盡了 邏輯心機",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "推理愛情 最難解的謎",
+      "chinese": "推理愛情 最難解的謎",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 妳也 和我一樣",
+      "chinese": "會不會 妳也 和我一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在等待一句 我願意",
+      "chinese": "在等待一句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 每個朝夕",
+      "chinese": "想見你 每個朝夕",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想見你 每個表情",
+      "chinese": "想見你 每個表情",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想穿越 每個平行",
+      "chinese": "想穿越 每個平行",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在未來 和過去 緊緊相依",
+      "chinese": "在未來 和過去 緊緊相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想follow 每則IG",
+      "chinese": "想follow 每則IG",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不錯過 你的蹤跡",
+      "chinese": "不錯過 你的蹤跡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 你也一樣",
+      "chinese": "會不會 你也一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "等待著那句 我願意",
+      "chinese": "等待著那句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "想見你 每個朝夕",
+      "chinese": "想見你 每個朝夕",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想見你 每個表情",
+      "chinese": "想見你 每個表情",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想穿越 每個平行",
+      "chinese": "想穿越 每個平行",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "在未來 和過去 緊緊相依",
+      "chinese": "在未來 和過去 緊緊相依",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "想follow 每則IG",
+      "chinese": "想follow 每則IG",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "不錯過 你的蹤跡",
+      "chinese": "不錯過 你的蹤跡",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "會不會 你也一樣",
+      "chinese": "會不會 你也一樣",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "等待著那句 我願意",
+      "chinese": "等待著那句 我願意",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "@DreamerLisa",
+      "chinese": "@",
+      "pinyin": "DreamerLisa",
+      "type": "lyric"
+    },
+    {
+      "raw": "Please follow and rate",
+      "chinese": "",
+      "pinyin": "Please follow and rate",
+      "type": "pinyin-only"
+    }
+  ]
+}

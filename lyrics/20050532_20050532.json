@@ -1,0 +1,715 @@
+{
+  "key": "20050532_20050532",
+  "title": "這是你期盼的長大嗎/这是你期盼的长大吗",
+  "artist": "向思思 Xiang Si Si (Zhe Shi Ni Qi Pan De Chang Da Ma)",
+  "arranger": "Cappuc1no",
+  "web_url": "https://www.smule.com/song/arr/20050532_20050532",
+  "cover_url": "https://c-cf.cdn.smule.com/smule-gg-uw1-s-8/arr/62/90/b22e3bf4-9bc9-4011-b49b-c2bbd8dd0549.jpg",
+  "has_lyrics": true,
+  "line_count": 117,
+  "lyric_line_count": 94,
+  "lines": [
+    {
+      "raw": "这是你期盼的长大吗 - 向思思",
+      "chinese": "这是你期盼的长大吗 - 向思思",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "🍃✨🎶✨🎶✨🍃",
+      "chinese": "🍃✨🎶✨🎶✨🍃",
+      "pinyin": "",
+      "type": "chinese-only"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "一眼望盡的胡同 Yī yǎn wàng jìn de hú tòng",
+      "chinese": "一眼望盡的胡同",
+      "pinyin": "Yī yǎn wàng jìn de hú tòng",
+      "type": "lyric"
+    },
+    {
+      "raw": "聽慣習以為常 tīng guàn xí yǐ wéi cháng",
+      "chinese": "聽慣習以為常",
+      "pinyin": "tīng guàn xí yǐ wéi cháng",
+      "type": "lyric"
+    },
+    {
+      "raw": "的步履匆匆 de bù lǚ cōng cōng",
+      "chinese": "的步履匆匆",
+      "pinyin": "de bù lǚ cōng cōng",
+      "type": "lyric"
+    },
+    {
+      "raw": "巷口迎 xiàng kǒu yíng",
+      "chinese": "巷口迎",
+      "pinyin": "xiàng kǒu yíng",
+      "type": "lyric"
+    },
+    {
+      "raw": "來送往的梧桐 lái sòng wǎng de wú tóng",
+      "chinese": "來送往的梧桐",
+      "pinyin": "lái sòng wǎng de wú tóng",
+      "type": "lyric"
+    },
+    {
+      "raw": "罩出一片 zhào chū yī piàn",
+      "chinese": "罩出一片",
+      "pinyin": "zhào chū yī piàn",
+      "type": "lyric"
+    },
+    {
+      "raw": "笑語正濃 xiào yǔ zhèng nóng",
+      "chinese": "笑語正濃",
+      "pinyin": "xiào yǔ zhèng nóng",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "走不出的小縣城 zǒu bù chū de xiǎo xiàn chéng",
+      "chinese": "走不出的小縣城",
+      "pinyin": "zǒu bù chū de xiǎo xiàn chéng",
+      "type": "lyric"
+    },
+    {
+      "raw": "還遺留了古 hái yí liú le gǔ",
+      "chinese": "還遺留了古",
+      "pinyin": "hái yí liú le gǔ",
+      "type": "lyric"
+    },
+    {
+      "raw": "城墻上的響鐘 chéng qiáng shàng de xiǎng zhōng",
+      "chinese": "城墻上的響鐘",
+      "pinyin": "chéng qiáng shàng de xiǎng zhōng",
+      "type": "lyric"
+    },
+    {
+      "raw": "一聲傳滿了 yī shēng chuán mǎn le",
+      "chinese": "一聲傳滿了",
+      "pinyin": "yī shēng chuán mǎn le",
+      "type": "lyric"
+    },
+    {
+      "raw": "整片天空 zhěng piàn tiān kōng",
+      "chinese": "整片天空",
+      "pinyin": "zhěng piàn tiān kōng",
+      "type": "lyric"
+    },
+    {
+      "raw": "充斥成年少的 chōng chì chéng nián shào de",
+      "chinese": "充斥成年少的",
+      "pinyin": "chōng chì chéng nián shào de",
+      "type": "lyric"
+    },
+    {
+      "raw": "憂愁 yōu chóu",
+      "chinese": "憂愁",
+      "pinyin": "yōu chóu",
+      "type": "lyric"
+    },
+    {
+      "raw": "和囚籠 hé qiú lóng",
+      "chinese": "和囚籠",
+      "pinyin": "hé qiú lóng",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "那是不是 nà shì bù shì",
+      "chinese": "那是不是",
+      "pinyin": "nà shì bù shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "你渴望的自由 nǐ kě wàng de zì yóu",
+      "chinese": "你渴望的自由",
+      "pinyin": "nǐ kě wàng de zì yóu",
+      "type": "lyric"
+    },
+    {
+      "raw": "以為理想 yǐ wéi lǐ xiǎng",
+      "chinese": "以為理想",
+      "pinyin": "yǐ wéi lǐ xiǎng",
+      "type": "lyric"
+    },
+    {
+      "raw": "靠雙手就足夠 kào shuāng shǒu jiù zú gòu",
+      "chinese": "靠雙手就足夠",
+      "pinyin": "kào shuāng shǒu jiù zú gòu",
+      "type": "lyric"
+    },
+    {
+      "raw": "直到被現實 zhí dào bèi xiàn shí",
+      "chinese": "直到被現實",
+      "pinyin": "zhí dào bèi xiàn shí",
+      "type": "lyric"
+    },
+    {
+      "raw": "狠推一把 hěn tuī yī bǎ",
+      "chinese": "狠推一把",
+      "pinyin": "hěn tuī yī bǎ",
+      "type": "lyric"
+    },
+    {
+      "raw": "跌到渾身是傷疤 diē dào hún shēn shì shāng bā",
+      "chinese": "跌到渾身是傷疤",
+      "pinyin": "diē dào hún shēn shì shāng bā",
+      "type": "lyric"
+    },
+    {
+      "raw": "才懂生活 cái dǒng shēng huó",
+      "chinese": "才懂生活",
+      "pinyin": "cái dǒng shēng huó",
+      "type": "lyric"
+    },
+    {
+      "raw": "不是童話 bù shì tóng huà",
+      "chinese": "不是童話",
+      "pinyin": "bù shì tóng huà",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很失望吧 nǐ hěn shī wàng ba",
+      "chinese": "你很失望吧",
+      "pinyin": "nǐ hěn shī wàng ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "大人的世界 dà rén de shì jiè",
+      "chinese": "大人的世界",
+      "pinyin": "dà rén de shì jiè",
+      "type": "lyric"
+    },
+    {
+      "raw": "不快樂吧 bù kuài lè ba",
+      "chinese": "不快樂吧",
+      "pinyin": "bù kuài lè ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "那個愛笑的自己 nà gè ài xiào de zì jǐ",
+      "chinese": "那個愛笑的自己",
+      "pinyin": "nà gè ài xiào de zì jǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "去哪了 qù nǎ le",
+      "chinese": "去哪了",
+      "pinyin": "qù nǎ le",
+      "type": "lyric"
+    },
+    {
+      "raw": "拼盡全力掙扎 pīn jìn quán lì zhēng zhá",
+      "chinese": "拼盡全力掙扎",
+      "pinyin": "pīn jìn quán lì zhēng zhá",
+      "type": "lyric"
+    },
+    {
+      "raw": "只為能 zhǐ wéi néng",
+      "chinese": "只為能",
+      "pinyin": "zhǐ wéi néng",
+      "type": "lyric"
+    },
+    {
+      "raw": "成為普通人啊 chéng wéi pǔ tōng rén a",
+      "chinese": "成為普通人啊",
+      "pinyin": "chéng wéi pǔ tōng rén a",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很累對嗎 nǐ hěn lèi duì ma",
+      "chinese": "你很累對嗎",
+      "pinyin": "nǐ hěn lèi duì ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "這是你 zhè shì nǐ",
+      "chinese": "這是你",
+      "pinyin": "zhè shì nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "期盼的長大嗎 qī pàn de cháng dà ma",
+      "chinese": "期盼的長大嗎",
+      "pinyin": "qī pàn de cháng dà ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "就任時光 jiù rèn shí guāng",
+      "chinese": "就任時光",
+      "pinyin": "jiù rèn shí guāng",
+      "type": "lyric"
+    },
+    {
+      "raw": "風乾夢想了嗎 fēng gān mèng xiǎng le ma",
+      "chinese": "風乾夢想了嗎",
+      "pinyin": "fēng gān mèng xiǎng le ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "堆積了一身傷疤 duī jī le yī shēn shāng bā",
+      "chinese": "堆積了一身傷疤",
+      "pinyin": "duī jī le yī shēn shāng bā",
+      "type": "lyric"
+    },
+    {
+      "raw": "也只是笑笑 yě zhǐ shì xiào xiào",
+      "chinese": "也只是笑笑",
+      "pinyin": "yě zhǐ shì xiào xiào",
+      "type": "lyric"
+    },
+    {
+      "raw": "不說話 bù shuō huà",
+      "chinese": "不說話",
+      "pinyin": "bù shuō huà",
+      "type": "lyric"
+    },
+    {
+      "raw": "還會幸福吧 hái huì xìng fú ba",
+      "chinese": "還會幸福吧",
+      "pinyin": "hái huì xìng fú ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "🎼🎶 Music 🎶🎼",
+      "chinese": "🎼🎶",
+      "pinyin": "Music 🎶🎼",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "走不出的小縣城 zǒu bù chū de xiǎo xiàn chéng",
+      "chinese": "走不出的小縣城",
+      "pinyin": "zǒu bù chū de xiǎo xiàn chéng",
+      "type": "lyric"
+    },
+    {
+      "raw": "還遺留了古 hái yí liú le gǔ",
+      "chinese": "還遺留了古",
+      "pinyin": "hái yí liú le gǔ",
+      "type": "lyric"
+    },
+    {
+      "raw": "城墻上的響鐘 chéng qiáng shàng de xiǎng zhōng",
+      "chinese": "城墻上的響鐘",
+      "pinyin": "chéng qiáng shàng de xiǎng zhōng",
+      "type": "lyric"
+    },
+    {
+      "raw": "一聲傳滿了 yī shēng chuán mǎn le",
+      "chinese": "一聲傳滿了",
+      "pinyin": "yī shēng chuán mǎn le",
+      "type": "lyric"
+    },
+    {
+      "raw": "整片天空 zhěng piàn tiān kōng",
+      "chinese": "整片天空",
+      "pinyin": "zhěng piàn tiān kōng",
+      "type": "lyric"
+    },
+    {
+      "raw": "充斥成年少的 chōng chì chéng nián shào de",
+      "chinese": "充斥成年少的",
+      "pinyin": "chōng chì chéng nián shào de",
+      "type": "lyric"
+    },
+    {
+      "raw": "憂愁 yōu chóu",
+      "chinese": "憂愁",
+      "pinyin": "yōu chóu",
+      "type": "lyric"
+    },
+    {
+      "raw": "和囚籠 hé qiú lóng",
+      "chinese": "和囚籠",
+      "pinyin": "hé qiú lóng",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "那是不是 nà shì bù shì",
+      "chinese": "那是不是",
+      "pinyin": "nà shì bù shì",
+      "type": "lyric"
+    },
+    {
+      "raw": "你渴望的自由 nǐ kě wàng de zì yóu",
+      "chinese": "你渴望的自由",
+      "pinyin": "nǐ kě wàng de zì yóu",
+      "type": "lyric"
+    },
+    {
+      "raw": "以為理想 yǐ wéi lǐ xiǎng",
+      "chinese": "以為理想",
+      "pinyin": "yǐ wéi lǐ xiǎng",
+      "type": "lyric"
+    },
+    {
+      "raw": "靠雙手就足夠 kào shuāng shǒu jiù zú gòu",
+      "chinese": "靠雙手就足夠",
+      "pinyin": "kào shuāng shǒu jiù zú gòu",
+      "type": "lyric"
+    },
+    {
+      "raw": "直到被現實 zhí dào bèi xiàn shí",
+      "chinese": "直到被現實",
+      "pinyin": "zhí dào bèi xiàn shí",
+      "type": "lyric"
+    },
+    {
+      "raw": "狠推一把 hěn tuī yī bǎ",
+      "chinese": "狠推一把",
+      "pinyin": "hěn tuī yī bǎ",
+      "type": "lyric"
+    },
+    {
+      "raw": "跌到渾身是傷疤 diē dào hún shēn shì shāng bā",
+      "chinese": "跌到渾身是傷疤",
+      "pinyin": "diē dào hún shēn shì shāng bā",
+      "type": "lyric"
+    },
+    {
+      "raw": "才懂生活 cái dǒng shēng huó",
+      "chinese": "才懂生活",
+      "pinyin": "cái dǒng shēng huó",
+      "type": "lyric"
+    },
+    {
+      "raw": "不是童話 bù shì tóng huà",
+      "chinese": "不是童話",
+      "pinyin": "bù shì tóng huà",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很失望吧 nǐ hěn shī wàng ba",
+      "chinese": "你很失望吧",
+      "pinyin": "nǐ hěn shī wàng ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "大人的世界 dà rén de shì jiè",
+      "chinese": "大人的世界",
+      "pinyin": "dà rén de shì jiè",
+      "type": "lyric"
+    },
+    {
+      "raw": "不快樂吧 bù kuài lè ba",
+      "chinese": "不快樂吧",
+      "pinyin": "bù kuài lè ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "那個愛笑的自己 nà gè ài xiào de zì jǐ",
+      "chinese": "那個愛笑的自己",
+      "pinyin": "nà gè ài xiào de zì jǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "去哪了 qù nǎ le",
+      "chinese": "去哪了",
+      "pinyin": "qù nǎ le",
+      "type": "lyric"
+    },
+    {
+      "raw": "拼盡全力掙扎 pīn jìn quán lì zhēng zhá",
+      "chinese": "拼盡全力掙扎",
+      "pinyin": "pīn jìn quán lì zhēng zhá",
+      "type": "lyric"
+    },
+    {
+      "raw": "只為能 zhǐ wéi néng",
+      "chinese": "只為能",
+      "pinyin": "zhǐ wéi néng",
+      "type": "lyric"
+    },
+    {
+      "raw": "成為普通人啊 chéng wéi pǔ tōng rén a",
+      "chinese": "成為普通人啊",
+      "pinyin": "chéng wéi pǔ tōng rén a",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很累對嗎 nǐ hěn lèi duì ma",
+      "chinese": "你很累對嗎",
+      "pinyin": "nǐ hěn lèi duì ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "這是你 zhè shì nǐ",
+      "chinese": "這是你",
+      "pinyin": "zhè shì nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "期盼的長大嗎 qī pàn de cháng dà ma",
+      "chinese": "期盼的長大嗎",
+      "pinyin": "qī pàn de cháng dà ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "就任時光 jiù rèn shí guāng",
+      "chinese": "就任時光",
+      "pinyin": "jiù rèn shí guāng",
+      "type": "lyric"
+    },
+    {
+      "raw": "風乾夢想了嗎 fēng gān mèng xiǎng le ma",
+      "chinese": "風乾夢想了嗎",
+      "pinyin": "fēng gān mèng xiǎng le ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "堆積了一身傷疤 duī jī le yī shēn shāng bā",
+      "chinese": "堆積了一身傷疤",
+      "pinyin": "duī jī le yī shēn shāng bā",
+      "type": "lyric"
+    },
+    {
+      "raw": "也只是笑笑 yě zhǐ shì xiào xiào",
+      "chinese": "也只是笑笑",
+      "pinyin": "yě zhǐ shì xiào xiào",
+      "type": "lyric"
+    },
+    {
+      "raw": "不說話 bù shuō huà",
+      "chinese": "不說話",
+      "pinyin": "bù shuō huà",
+      "type": "lyric"
+    },
+    {
+      "raw": "還會幸福吧 hái huì xìng fú ba",
+      "chinese": "還會幸福吧",
+      "pinyin": "hái huì xìng fú ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很失望吧 nǐ hěn shī wàng ba",
+      "chinese": "你很失望吧",
+      "pinyin": "nǐ hěn shī wàng ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "大人的世界 dà rén de shì jiè",
+      "chinese": "大人的世界",
+      "pinyin": "dà rén de shì jiè",
+      "type": "lyric"
+    },
+    {
+      "raw": "不快樂吧 bù kuài lè ba",
+      "chinese": "不快樂吧",
+      "pinyin": "bù kuài lè ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "那個愛笑的自己 nà gè ài xiào de zì jǐ",
+      "chinese": "那個愛笑的自己",
+      "pinyin": "nà gè ài xiào de zì jǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "去哪了 qù nǎ le",
+      "chinese": "去哪了",
+      "pinyin": "qù nǎ le",
+      "type": "lyric"
+    },
+    {
+      "raw": "拼盡全力掙扎 pīn jìn quán lì zhēng zhá",
+      "chinese": "拼盡全力掙扎",
+      "pinyin": "pīn jìn quán lì zhēng zhá",
+      "type": "lyric"
+    },
+    {
+      "raw": "只為能 zhǐ wéi néng",
+      "chinese": "只為能",
+      "pinyin": "zhǐ wéi néng",
+      "type": "lyric"
+    },
+    {
+      "raw": "成為普通人啊 chéng wéi pǔ tōng rén a",
+      "chinese": "成為普通人啊",
+      "pinyin": "chéng wéi pǔ tōng rén a",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你很累對嗎 nǐ hěn lèi duì ma",
+      "chinese": "你很累對嗎",
+      "pinyin": "nǐ hěn lèi duì ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "這是你 zhè shì nǐ",
+      "chinese": "這是你",
+      "pinyin": "zhè shì nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "期盼的長大嗎 qī pàn de cháng dà ma",
+      "chinese": "期盼的長大嗎",
+      "pinyin": "qī pàn de cháng dà ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "就任時光 jiù rèn shí guāng",
+      "chinese": "就任時光",
+      "pinyin": "jiù rèn shí guāng",
+      "type": "lyric"
+    },
+    {
+      "raw": "風乾夢想了嗎 fēng gān mèng xiǎng le ma",
+      "chinese": "風乾夢想了嗎",
+      "pinyin": "fēng gān mèng xiǎng le ma",
+      "type": "lyric"
+    },
+    {
+      "raw": "堆積了一身傷疤 duī jī le yī shēn shāng bā",
+      "chinese": "堆積了一身傷疤",
+      "pinyin": "duī jī le yī shēn shāng bā",
+      "type": "lyric"
+    },
+    {
+      "raw": "也只是笑笑 yě zhǐ shì xiào xiào",
+      "chinese": "也只是笑笑",
+      "pinyin": "yě zhǐ shì xiào xiào",
+      "type": "lyric"
+    },
+    {
+      "raw": "不說話 bù shuō huà",
+      "chinese": "不說話",
+      "pinyin": "bù shuō huà",
+      "type": "lyric"
+    },
+    {
+      "raw": "還會幸..福吧 hái huì xìng.. fú ba",
+      "chinese": "還會幸..福吧",
+      "pinyin": "hái huì xìng.. fú ba",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "Uploaded by HCN",
+      "chinese": "",
+      "pinyin": "Uploaded by HCN",
+      "type": "pinyin-only"
+    },
+    {
+      "raw": "🍓 Thank You 🍓",
+      "chinese": "🍓",
+      "pinyin": "Thank You 🍓",
+      "type": "lyric"
+    }
+  ]
+}
