@@ -1,0 +1,175 @@
+{
+  "key": "all_the_lights_chinese_version",
+  "title": "All The Lights（中文版）",
+  "artist": "Daniel Goh, Aaron Cheong from Heart of God Church",
+  "arranger": "Daniel Goh, Aaron Cheong from Heart of God Church",
+  "web_url": "",
+  "cover_url": "",
+  "has_lyrics": true,
+  "line_count": 27,
+  "lyric_line_count": 24,
+  "lines": [
+    {
+      "raw": "wo de xin bei ni de guang zhaoliang",
+      "chinese": "我的心被祢的光照亮",
+      "pinyin": "Wǒ de xīn bèi nǐ de guāng zhàoliàng",
+      "type": "lyric"
+    },
+    {
+      "raw": "ni ai huapo wujin hei'an",
+      "chinese": "祢爱划破无尽黑暗",
+      "pinyin": "Nǐ ài huàpò wújìn hēi'àn",
+      "type": "lyric"
+    },
+    {
+      "raw": "shanyao de guangmang shengguo taiyang",
+      "chinese": "闪耀的光芒胜过太阳",
+      "pinyin": "Shǎnyào de guāngmáng shèngguò tàiyáng",
+      "type": "lyric"
+    },
+    {
+      "raw": "ni ai",
+      "chinese": "祢爱",
+      "pinyin": "Nǐ ài",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "ni reqing huoyan ranshao wo ling",
+      "chinese": "祢热情火焰燃烧我灵",
+      "pinyin": "Nǐ rèqíng huǒyàn ránshāo wǒ líng",
+      "type": "lyric"
+    },
+    {
+      "raw": "yiqie wo suoyou quan shuyu ni",
+      "chinese": "一切我所有 全属于祢",
+      "pinyin": "Yīqiè wǒ suǒyǒu quán shǔyú nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "wo xianshang shengming lai gensui ni",
+      "chinese": "我献上生命 来跟随祢",
+      "pinyin": "Wǒ xiànshàng shēngmìng lái gēnsuí nǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "de ai",
+      "chinese": "的爱",
+      "pinyin": "De ài",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "yinwei you ni gangqiang de ai",
+      "chinese": "因为有祢刚强的爱",
+      "pinyin": "Yīnwèi yǒu nǐ gāngqiáng de ài",
+      "type": "lyric"
+    },
+    {
+      "raw": "shengguo shibai",
+      "chinese": "胜过失败",
+      "pinyin": "Shèngguò shībài",
+      "type": "lyric"
+    },
+    {
+      "raw": "ni shizijia gengxin wo",
+      "chinese": "祢十架更新我",
+      "pinyin": "Nǐ shízìjià gēngxīn wǒ",
+      "type": "lyric"
+    },
+    {
+      "raw": "dezhe ziyou shengming qixi",
+      "chinese": "得着自由 生命气息",
+      "pinyin": "Dézhe zìyóu shēngmìng qìxī",
+      "type": "lyric"
+    },
+    {
+      "raw": "ranshaozhe wo de ling",
+      "chinese": "燃烧着我的灵",
+      "pinyin": "Ránshāozhe wǒ de líng",
+      "type": "lyric"
+    },
+    {
+      "raw": "liehuo gaibian wo xin",
+      "chinese": "烈火改变我心",
+      "pinyin": "Lièhuǒ gǎibiàn wǒ xīn",
+      "type": "lyric"
+    },
+    {
+      "raw": "wo de ling bei suxing",
+      "chinese": "我的灵被苏醒",
+      "pinyin": "Wǒ de líng bèi sūxǐng",
+      "type": "lyric"
+    },
+    {
+      "raw": "huore yi bei ranqi",
+      "chinese": "火热已被燃起",
+      "pinyin": "Huǒrè yǐ bèi ránqǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "yong wo suoyou reqing",
+      "chinese": "用我所有热情",
+      "pinyin": "Yòng wǒ suǒyǒu rèqíng",
+      "type": "lyric"
+    },
+    {
+      "raw": "yao zhanfang ni guangming",
+      "chinese": "要绽放祢光明",
+      "pinyin": "Yào zhànfàng nǐ guāngmíng",
+      "type": "lyric"
+    },
+    {
+      "raw": "xinxin shengqi jiu zai zheli",
+      "chinese": "信心升起 就在这里",
+      "pinyin": "Xìnxīn shēngqǐ jiù zài zhèlǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "kongju dou taoli",
+      "chinese": "恐惧都逃离",
+      "pinyin": "Kǒngjù dōu táolí",
+      "type": "lyric"
+    },
+    {
+      "raw": "ni duankai suolian",
+      "chinese": "祢断开锁链",
+      "pinyin": "Nǐ duànkāi suǒliàn",
+      "type": "lyric"
+    },
+    {
+      "raw": "wo gensuizhe ni ai de xuanlu",
+      "chinese": "我跟随着 祢爱的旋律",
+      "pinyin": "Wǒ gēnsuízhe nǐ ài de xuánlǜ",
+      "type": "lyric"
+    },
+    {
+      "raw": "huo zai ni guang li",
+      "chinese": "活在祢光里",
+      "pinyin": "Huó zài nǐ guāng lǐ",
+      "type": "lyric"
+    },
+    {
+      "raw": "ni guodu huhuan wo",
+      "chinese": "祢国度呼唤我",
+      "pinyin": "Nǐ guódù hūhuàn wǒ",
+      "type": "lyric"
+    }
+  ]
+}
