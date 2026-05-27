@@ -6,6 +6,7 @@ import { notFound } from 'next/navigation';
 interface LyricLine {
   chinese: string;
   pinyin: string;
+  english?: string;
   type: 'lyric' | 'pinyin-only' | 'chinese-only' | 'blank';
 }
 
@@ -65,17 +66,24 @@ export default async function SongPage({ params }: { params: Promise<{ songId: s
 
             const chinese = line.chinese.replace(/\/+$/, '').trim();
             const pinyin = line.pinyin.trim();
+            const english = (line.english ?? '').trim();
             const hasChinese = Boolean(chinese);
             const hasPinyin = Boolean(pinyin);
+            const hasEnglish = Boolean(english);
+            const isChineseOnly = hasChinese && !hasPinyin && !hasEnglish;
 
-            if (!hasChinese && !hasPinyin) {
+            if (!hasChinese && !hasPinyin && !hasEnglish) {
               return null;
             }
 
             return (
-              <div key={i} className={`lyric-line${hasChinese && hasPinyin ? '' : ' lyric-chinese-only'}`}>
+              <div
+                key={i}
+                className={`lyric-line${isChineseOnly ? ' lyric-chinese-only' : ''}`}
+              >
                 {hasPinyin ? <span className="lyric-pinyin">{pinyin}</span> : null}
                 {hasChinese ? <span className="lyric-chinese">{chinese}</span> : null}
+                {hasEnglish ? <span className="lyric-english">{english}</span> : null}
               </div>
             );
           })}
