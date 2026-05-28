@@ -46,58 +46,32 @@
       "type": "blank"
     },
     {
-      "raw": "太多的 太重的 太殘忍的話",
-      "chinese": "太多的 太重的 太殘忍的話",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "太多的 太重的 太残忍的话",
+      "chinese": "太多的 太重的 太残忍的话",
+      "pinyin": "tài duō de tài zhòng de tài cán rěn de huà",
+      "type": "lyric",
+      "english": "The words are too much, too heavy, too cruel."
     },
     {
-      "raw": "沒糾纏 是你的 理由太假",
-      "chinese": "沒糾纏 是你的 理由太假",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "没纠缠 是你的 理由太假",
+      "chinese": "没纠缠 是你的 理由太假",
+      "pinyin": "méi jiū chán shì nǐ de lǐ yóu tài jiǎ",
+      "type": "lyric",
+      "english": "It’s your excuse for not pestering."
     },
     {
-      "raw": "我覺得 你大可不必說的天花亂墜",
-      "chinese": "我覺得 你大可不必說的天花亂墜",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "我觉得 你大可不必说的天花乱坠",
+      "chinese": "我觉得 你大可不必说的天花乱坠",
+      "pinyin": "wǒ jué dé nǐ dà kě bù bì shuō de tiān huā luàn zhuì",
+      "type": "lyric",
+      "english": "I don’t think you need to talk about it."
     },
     {
-      "raw": "是天使 是魔鬼 都沒有絕對",
-      "chinese": "是天使 是魔鬼 都沒有絕對",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "",
-      "chinese": "",
-      "pinyin": "",
-      "type": "blank"
-    },
-    {
-      "raw": "沒想的 沒說的 都請收起吧",
-      "chinese": "沒想的 沒說的 都請收起吧",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你扮演 的角色 更可悲嗎",
-      "chinese": "你扮演 的角色 更可悲嗎",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "放棄的 就大可不必再爭辯是非",
-      "chinese": "放棄的 就大可不必再爭辯是非",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "放下的 就請你 燒的乾脆",
-      "chinese": "放下的 就請你 燒的乾脆",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "是天使 是魔鬼 都没有绝对",
+      "chinese": "是天使 是魔鬼 都没有绝对",
+      "pinyin": "shì tiān shǐ shì mó guǐ dōu méi yǒu jué duì",
+      "type": "lyric",
+      "english": "It’s an angel. it’s the devil. it’s not right."
     },
     {
       "raw": "",
@@ -106,58 +80,32 @@
       "type": "blank"
     },
     {
-      "raw": "",
-      "chinese": "",
-      "pinyin": "",
-      "type": "blank"
+      "raw": "没想的 没说的 都请收起吧",
+      "chinese": "没想的 没说的 都请收起吧",
+      "pinyin": "méi xiǎng de méi shuō de dōu qǐng shōu qǐ ba",
+      "type": "lyric",
+      "english": "Please keep all you didn’t think and say"
     },
     {
-      "raw": "你的一字一句猶如刀疤劃心上",
-      "chinese": "你的一字一句猶如刀疤劃心上",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "你扮演 的角色 更可悲吗",
+      "chinese": "你扮演 的角色 更可悲吗",
+      "pinyin": "nǐ bàn yǎn de jué sè gèng kě bēi ma",
+      "type": "lyric",
+      "english": "Is your role more pathetic?"
     },
     {
-      "raw": "我的一舉一動隨你改變多荒唐",
-      "chinese": "我的一舉一動隨你改變多荒唐",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "放弃的 就大可不必再争辩是非",
+      "chinese": "放弃的 就大可不必再争辩是非",
+      "pinyin": "fàng qì de jiù dà kě bù bì zài zhēng biàn shì fēi",
+      "type": "lyric",
+      "english": "If you give up, you don’t have to argue."
     },
     {
-      "raw": "任你肆意玩弄 從沒去想",
-      "chinese": "任你肆意玩弄 從沒去想",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你是有多囂張",
-      "chinese": "你是有多囂張",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "我的心臟脈搏為你跳動為你狂",
-      "chinese": "我的心臟脈搏為你跳動為你狂",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你說我真的多餘不如離開流浪",
-      "chinese": "你說我真的多餘不如離開流浪",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "",
-      "chinese": "",
-      "pinyin": "",
-      "type": "blank"
-    },
-    {
-      "raw": "都怪我 沒治愈我的傷",
-      "chinese": "都怪我 沒治愈我的傷",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "放下的 就请你 烧的干脆",
+      "chinese": "放下的 就请你 烧的干脆",
+      "pinyin": "fàng xià de jiù qǐng nǐ shāo de gān cuì",
+      "type": "lyric",
+      "english": "If you put it down, you’ll burn it down."
     },
     {
       "raw": "",
@@ -172,28 +120,46 @@
       "type": "blank"
     },
     {
-      "raw": "沒想的 沒說的 都請收起吧",
-      "chinese": "沒想的 沒說的 都請收起吧",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "你的一字一句犹如刀疤划心上",
+      "chinese": "你的一字一句犹如刀疤划心上",
+      "pinyin": "nǐ de yī zì yī jù yóu rú dāo bā huà xīn shàng",
+      "type": "lyric",
+      "english": "Your word is like a scar on the heart"
     },
     {
-      "raw": "你扮演 的角色 更可悲嗎",
-      "chinese": "你扮演 的角色 更可悲嗎",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "我的一举一动随你改变多荒唐",
+      "chinese": "我的一举一动随你改变多荒唐",
+      "pinyin": "wǒ de yī jǔ yī dòng suí nǐ gǎi biàn duō huāng táng",
+      "type": "lyric",
+      "english": "How ridiculous it is to change my every move with you."
     },
     {
-      "raw": "放棄的 就大可不必再爭辯是非",
-      "chinese": "放棄的 就大可不必再爭辯是非",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "任你肆意玩弄 从没去想",
+      "chinese": "任你肆意玩弄 从没去想",
+      "pinyin": "rèn nǐ sì yì wàn nòng cóng méi qù xiǎng",
+      "type": "lyric",
+      "english": "You play with it, you never think about it."
     },
     {
-      "raw": "放下的 就請你 燒的乾脆",
-      "chinese": "放下的 就請你 燒的乾脆",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "你是有多嚣张",
+      "chinese": "你是有多嚣张",
+      "pinyin": "nǐ shì yǒu duō xiāo zhāng",
+      "type": "lyric",
+      "english": "How arrogant are you?"
+    },
+    {
+      "raw": "我的心脏脉搏为你跳动为你狂",
+      "chinese": "我的心脏脉搏为你跳动为你狂",
+      "pinyin": "wǒ de xīn zàng mài bó wèi nǐ tiào dòng wèi nǐ kuáng",
+      "type": "lyric",
+      "english": "My heart beats for you and crazy for you"
+    },
+    {
+      "raw": "你说我真的多余不如离开流浪",
+      "chinese": "你说我真的多余不如离开流浪",
+      "pinyin": "nǐ shuō wǒ zhēn de duō yú bù rú lí kāi liú làng",
+      "type": "lyric",
+      "english": "You said I was so much more than I was supposed to be."
     },
     {
       "raw": "",
@@ -202,46 +168,11 @@
       "type": "blank"
     },
     {
-      "raw": "你的一字一句猶如刀疤劃心上",
-      "chinese": "你的一字一句猶如刀疤劃心上",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "我的一舉一動隨你改變多荒唐",
-      "chinese": "我的一舉一動隨你改變多荒唐",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "任你肆意玩弄 從沒去想",
-      "chinese": "任你肆意玩弄 從沒去想",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你是有多囂張",
-      "chinese": "你是有多囂張",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "我的心臟脈搏為你跳動為你狂",
-      "chinese": "我的心臟脈搏為你跳動為你狂",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你說我真的多餘不如離開流浪",
-      "chinese": "你說我真的多餘不如離開流浪",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "都怪我 沒治愈我的傷",
-      "chinese": "都怪我 沒治愈我的傷",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "都怪我 没治愈我的伤",
+      "chinese": "都怪我 没治愈我的伤",
+      "pinyin": "dōu guài wǒ méi zhì yù wǒ de shāng",
+      "type": "lyric",
+      "english": "It’s my fault I didn’t heal my wounds."
     },
     {
       "raw": "",
@@ -256,40 +187,32 @@
       "type": "blank"
     },
     {
-      "raw": "你的一字一句猶如刀疤劃心上",
-      "chinese": "你的一字一句猶如刀疤劃心上",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "没想的 没说的 都请收起吧",
+      "chinese": "没想的 没说的 都请收起吧",
+      "pinyin": "méi xiǎng de méi shuō de dōu qǐng shōu qǐ ba",
+      "type": "lyric",
+      "english": "Please keep all you didn’t think and say"
     },
     {
-      "raw": "我的一舉一動隨你改變多荒唐",
-      "chinese": "我的一舉一動隨你改變多荒唐",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "你扮演 的角色 更可悲吗",
+      "chinese": "你扮演 的角色 更可悲吗",
+      "pinyin": "nǐ bàn yǎn de jué sè gèng kě bēi ma",
+      "type": "lyric",
+      "english": "Is your role more pathetic?"
     },
     {
-      "raw": "任你肆意玩弄 從沒去想",
-      "chinese": "任你肆意玩弄 從沒去想",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "放弃的 就大可不必再争辩是非",
+      "chinese": "放弃的 就大可不必再争辩是非",
+      "pinyin": "fàng qì de jiù dà kě bù bì zài zhēng biàn shì fēi",
+      "type": "lyric",
+      "english": "If you give up, you don’t have to argue."
     },
     {
-      "raw": "你是有多囂張",
-      "chinese": "你是有多囂張",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "我的心臟脈搏為你跳動為你狂",
-      "chinese": "我的心臟脈搏為你跳動為你狂",
-      "pinyin": "",
-      "type": "chinese-only"
-    },
-    {
-      "raw": "你說我真的多餘不如離開流浪",
-      "chinese": "你說我真的多餘不如離開流浪",
-      "pinyin": "",
-      "type": "chinese-only"
+      "raw": "放下的 就请你 烧的干脆",
+      "chinese": "放下的 就请你 烧的干脆",
+      "pinyin": "fàng xià de jiù qǐng nǐ shāo de gān cuì",
+      "type": "lyric",
+      "english": "If you put it down, you’ll burn it down."
     },
     {
       "raw": "",
@@ -298,10 +221,120 @@
       "type": "blank"
     },
     {
-      "raw": "都怪我 沒治愈我的傷",
-      "chinese": "都怪我 沒治愈我的傷",
+      "raw": "你的一字一句犹如刀疤划心上",
+      "chinese": "你的一字一句犹如刀疤划心上",
+      "pinyin": "nǐ de yī zì yī jù yóu rú dāo bā huà xīn shàng",
+      "type": "lyric",
+      "english": "Your word is like a scar on the heart"
+    },
+    {
+      "raw": "我的一举一动随你改变多荒唐",
+      "chinese": "我的一举一动随你改变多荒唐",
+      "pinyin": "wǒ de yī jǔ yī dòng suí nǐ gǎi biàn duō huāng táng",
+      "type": "lyric",
+      "english": "How ridiculous it is to change my every move with you."
+    },
+    {
+      "raw": "任你肆意玩弄 从没去想",
+      "chinese": "任你肆意玩弄 从没去想",
+      "pinyin": "rèn nǐ sì yì wàn nòng cóng méi qù xiǎng",
+      "type": "lyric",
+      "english": "You play with it, you never think about it."
+    },
+    {
+      "raw": "你是有多嚣张",
+      "chinese": "你是有多嚣张",
+      "pinyin": "nǐ shì yǒu duō xiāo zhāng",
+      "type": "lyric",
+      "english": "How arrogant are you?"
+    },
+    {
+      "raw": "我的心脏脉搏为你跳动为你狂",
+      "chinese": "我的心脏脉搏为你跳动为你狂",
+      "pinyin": "wǒ de xīn zàng mài bó wèi nǐ tiào dòng wèi nǐ kuáng",
+      "type": "lyric",
+      "english": "My heart beats for you and crazy for you"
+    },
+    {
+      "raw": "你说我真的多余不如离开流浪",
+      "chinese": "你说我真的多余不如离开流浪",
+      "pinyin": "nǐ shuō wǒ zhēn de duō yú bù rú lí kāi liú làng",
+      "type": "lyric",
+      "english": "You said I was so much more than I was supposed to be."
+    },
+    {
+      "raw": "都怪我 没治愈我的伤",
+      "chinese": "都怪我 没治愈我的伤",
+      "pinyin": "dōu guài wǒ méi zhì yù wǒ de shāng",
+      "type": "lyric",
+      "english": "It’s my fault I didn’t heal my wounds."
+    },
+    {
+      "raw": "",
+      "chinese": "",
       "pinyin": "",
-      "type": "chinese-only"
+      "type": "blank"
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "你的一字一句犹如刀疤划心上",
+      "chinese": "你的一字一句犹如刀疤划心上",
+      "pinyin": "nǐ de yī zì yī jù yóu rú dāo bā huà xīn shàng",
+      "type": "lyric",
+      "english": "Your word is like a scar on the heart"
+    },
+    {
+      "raw": "我的一举一动随你改变多荒唐",
+      "chinese": "我的一举一动随你改变多荒唐",
+      "pinyin": "wǒ de yī jǔ yī dòng suí nǐ gǎi biàn duō huāng táng",
+      "type": "lyric",
+      "english": "How ridiculous it is to change my every move with you."
+    },
+    {
+      "raw": "任你肆意玩弄 从没去想",
+      "chinese": "任你肆意玩弄 从没去想",
+      "pinyin": "rèn nǐ sì yì wàn nòng cóng méi qù xiǎng",
+      "type": "lyric",
+      "english": "You play with it, you never think about it."
+    },
+    {
+      "raw": "你是有多嚣张",
+      "chinese": "你是有多嚣张",
+      "pinyin": "nǐ shì yǒu duō xiāo zhāng",
+      "type": "lyric",
+      "english": "How arrogant are you?"
+    },
+    {
+      "raw": "我的心脏脉搏为你跳动为你狂",
+      "chinese": "我的心脏脉搏为你跳动为你狂",
+      "pinyin": "wǒ de xīn zàng mài bó wèi nǐ tiào dòng wèi nǐ kuáng",
+      "type": "lyric",
+      "english": "My heart beats for you and crazy for you"
+    },
+    {
+      "raw": "你说我真的多余不如离开流浪",
+      "chinese": "你说我真的多余不如离开流浪",
+      "pinyin": "nǐ shuō wǒ zhēn de duō yú bù rú lí kāi liú làng",
+      "type": "lyric",
+      "english": "You said I was so much more than I was supposed to be."
+    },
+    {
+      "raw": "",
+      "chinese": "",
+      "pinyin": "",
+      "type": "blank"
+    },
+    {
+      "raw": "都怪我 没治愈我的伤",
+      "chinese": "都怪我 没治愈我的伤",
+      "pinyin": "dōu guài wǒ méi zhì yù wǒ de shāng",
+      "type": "lyric",
+      "english": "It’s my fault I didn’t heal my wounds."
     }
   ]
 }
